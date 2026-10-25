@@ -1,0 +1,4682 @@
+[
+  {
+    "id": "subsubsub_1",
+    "subject": "বাংলা ১ম পত্র",
+    "chapter": "শুভা",
+    "question": "শুভা গল্পে শুভার প্রকৃত নাম কী ছিল?",
+    "options": [
+      "সুভাষিণী",
+      "সুকেশী",
+      "সুহাসিনী",
+      "সুরঞ্জনা"
+    ],
+    "correctIndex": 0,
+    "explanation": "রবীন্দ্রনাথ ঠাকুরের 'শুভা' গল্পে শুভার আসল নাম ছিল সুভাষিণী। কিন্তু সংক্ষেপে সবাই তাকে 'শুভা' বলে ডাকত।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_2",
+    "subject": "বাংলা ১ম পত্র",
+    "chapter": "শুভা",
+    "question": "শুভার বাবার নাম কী ছিল?",
+    "options": [
+      "বাণীকণ্ঠ",
+      "সর্বজয়া",
+      "রামসুন্দর",
+      "হরিহর"
+    ],
+    "correctIndex": 0,
+    "explanation": "শুভার পিতার নাম বাণীকণ্ঠ। তিনি সুভাষিণীকে অন্য দুই মেয়ের চেয়ে বেশি ভালোবাসতেন।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_3",
+    "subject": "বাংলা ১ম পত্র",
+    "chapter": "শুভা",
+    "question": "শুভার গ্রামের নাম কী ছিল?",
+    "options": [
+      "চণ্ডীপুর",
+      "নিশ্চিন্দিপুর",
+      "তেঁতুলিয়া",
+      "শিবপুর"
+    ],
+    "correctIndex": 0,
+    "explanation": "শুভার গ্রামের নাম ছিল চণ্ডীপুর। নদীটি বাংলাদেশের একটি ছোট নদী, যার তীরে গ্রামটি অবস্থিত।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_4",
+    "subject": "বাংলা ১ম পত্র",
+    "chapter": "শুভা",
+    "question": "শুভার দুই ঘনিষ্ঠ গাভী-বন্ধুর নাম কী ছিল?",
+    "options": [
+      "সর্বশী ও পাঙ্গুলি",
+      "রাঙী ও ময়না",
+      "যমুনা ও পদ্মা",
+      "গৌরী ও শ্যামলী"
+    ],
+    "correctIndex": 0,
+    "explanation": "শুভার গোয়ালের দুই বন্ধু গাভীর নাম ছিল সর্বশী ও পাঙ্গুলি। এরা শুভার মুখের ভাব খুব ভালো বুঝত।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_5",
+    "subject": "বাংলা ১ম পত্র",
+    "chapter": "শুভা",
+    "question": "প্রতাপের প্রধান শখ কী ছিল?",
+    "options": [
+      "ছিপ ফেলে মাছ ধরা",
+      "নৌকা চালানো",
+      "বাঁশি বাজানো",
+      "কবিতা লেখা"
+    ],
+    "correctIndex": 0,
+    "explanation": "প্রতাপের প্রধান শখ ছিল ছিপ ফেলে মাছ ধরা। এ কাজে একটি নীরব সঙ্গী খুব উপযোগী, তাই সে শুভার কদর করত।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_6",
+    "subject": "বাংলা ১ম পত্র",
+    "chapter": "বই পড়া",
+    "question": "'বই পড়া' প্রবন্ধে প্রমথ চৌধুরী লাইব্রেরিকে কার চেয়ে উপরে স্থান দিয়েছেন?",
+    "options": [
+      "স্কুল-কলেজ",
+      "হাসপাতাল",
+      "আদালত",
+      "সংসদ"
+    ],
+    "correctIndex": 0,
+    "explanation": "প্রমথ চৌধুরী 'বই পড়া' প্রবন্ধে বলেছেন, লাইব্রেরি হলো স্বশিক্ষিত হওয়ার সেরা স্থান এবং এটি স্কুল-কলেজের চেয়েও উচ্চমানের।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_7",
+    "subject": "বাংলা ১ম পত্র",
+    "chapter": "বই পড়া",
+    "question": "'ব্যাধি সংক্রামক, কিন্তু স্বাস্থ্য নয়'—উক্তিটি কার?",
+    "options": [
+      "প্রমথ চৌধুরী",
+      "রবীন্দ্রনাথ ঠাকুর",
+      "কাজী নজরুল ইসলাম",
+      "বঙ্কিমচন্দ্র চট্টোপাধ্যায়"
+    ],
+    "correctIndex": 0,
+    "explanation": "প্রমথ চৌধুরীর বিখ্যাত প্রবন্ধ 'বই পড়া'-তে এ দার্শনিক ও শিক্ষামূলক উক্তিটি পাওয়া যায়।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_8",
+    "subject": "বাংলা ১ম পত্র",
+    "chapter": "বই পড়া",
+    "question": "আমাদের দেশে অনাহারী মানুষের সংখ্যা বেশি বলে কিসের চর্চা অনেকে অনর্থক মনে করেন?",
+    "options": [
+      "সাহিত্য চর্চা",
+      "বিজ্ঞান চর্চা",
+      "খেলাধুলা",
+      "অর্থনীতি চর্চা"
+    ],
+    "correctIndex": 0,
+    "explanation": "প্রবন্ধকার উল্লেখ করেছেন, পেটের ক্ষুধায় কাতর জাতি কেবল অর্থকরী বিদ্যাকেই গুরুত্ব দেয়, সাহিত্যের মতো মানসিক খোরাককে অনর্থক ভাবে।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_9",
+    "subject": "বাংলা ১ম পত্র",
+    "chapter": "মানুষ মুহম্মদ (সঃ)",
+    "question": "হযরত মুহম্মদ (সঃ) এর চরিত্রের প্রধান মানবীয় গুণ কোনটি ছিল?",
+    "options": [
+      "অকৃত্রিম ক্ষমা ও দয়া",
+      "কঠোর শাসন",
+      "ধন-সম্পদের প্রতি অনুরাগ",
+      "যুদ্ধকৌশল"
+    ],
+    "correctIndex": 0,
+    "explanation": "তায়েফের ময়দানে পাথরের আঘাতে রক্তাক্ত হয়েও তিনি শত্রুদের জন্য ক্ষমা ও হেদায়েতের দোয়া করেছিলেন।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_10",
+    "subject": "বাংলা ১ম পত্র",
+    "chapter": "মানুষ মুহম্মদ (সঃ)",
+    "question": "'মানুষ মুহম্মদ (সঃ)' প্রবন্ধটি কার লেখা?",
+    "options": [
+      "মোহাম্মদ ওয়াজেদ আলী",
+      "মীর মশাররফ হোসেন",
+      "কায়কোবাদ",
+      "কাজী নজরুল ইসলাম"
+    ],
+    "correctIndex": 0,
+    "explanation": "মোহাম্মদ ওয়াজেদ আলী রচিত এই প্রবন্ধে মহানবী (সঃ)-এর মানবিক গুণাবলী উজ্জ্বলভাবে তুলে ধরা হয়েছে।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_11",
+    "subject": "বাংলা ১ম পত্র",
+    "chapter": "মানুষ মুহম্মদ (সঃ)",
+    "question": "মহানবী (সঃ)-এর ওফাতের পর কে দৃঢ়চিত্তে পরিস্থিতি সামাল দেন?",
+    "options": [
+      "হযরত আবু বকর (রাঃ)",
+      "হযরত ওমর (রাঃ)",
+      "হযরত উসমান (রাঃ)",
+      "হযরত আলী (রাঃ)"
+    ],
+    "correctIndex": 0,
+    "explanation": "হযরত আবু বকর (রাঃ) শান্ত কণ্ঠে ঘোষণা করেন, যারা মুহাম্মদের উপাসনা করত জেনে রাখুক তিনি মারা গেছেন, আর যারা আল্লাহর ইবাদত করে আল্লাহ চিরঞ্জীব।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_12",
+    "subject": "বাংলা ১ম পত্র",
+    "chapter": "নিমগাছ",
+    "question": "'নিমগাছ' গল্পে বাড়ির পাশে নিমগাছ গজালে বিজ্ঞরা খুশি হন কেন?",
+    "options": [
+      "নিমের হাওয়া ভালো ও উপকারী",
+      "কাঠের দাম বেশি",
+      "ফল মিষ্টি",
+      "ছায়া শীতল"
+    ],
+    "correctIndex": 0,
+    "explanation": "বিজ্ঞরা বলেন, নিমের হাওয়া ভালো, তোলো না, কাটো না। এটি স্বাস্থ্য ও পরিচ্ছন্নতার প্রতীক।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_13",
+    "subject": "বাংলা ১ম পত্র",
+    "chapter": "নিমগাছ",
+    "question": "'নিমগাছ' গল্পের শেষ চরণে কোন গৃহবধূর করুণ বাস্তবতা ফুটে উঠেছে?",
+    "options": [
+      "সংসারজালে আবদ্ধ নিপুণা গৃহবধূর",
+      "অলস গৃহবধূর",
+      "বিদ্রোহী নারীর",
+      "বিলাসী নারীর"
+    ],
+    "correctIndex": 0,
+    "explanation": "বনফুল প্রতীকী অর্থে নিমগাছের সাথে পরিবারের সকলের সেবা করা অবহেলিত লক্ষ্মী বউটির সাদৃশ্য দেখিয়েছেন।",
+    "difficulty": "hard"
+  },
+  {
+    "id": "subsubsub_14",
+    "subject": "বাংলা ১ম পত্র",
+    "chapter": "কপোতাক্ষ নদ",
+    "question": "'কপোতাক্ষ নদ' কোন ধরনের কবিতা?",
+    "options": [
+      "সনেট বা চতুর্দশপদী কবিতা",
+      "মহাকাব্য",
+      "গীতিকবিতা",
+      "শোকগাথা"
+    ],
+    "correctIndex": 0,
+    "explanation": "মাইকেল মধুসূদন দত্ত প্রবর্তিত বাংলা সনেটের উৎকৃষ্ট উদাহরণ হলো 'কপোতাক্ষ নদ', যার চরণ ও মাত্রা ১৪ টি।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_15",
+    "subject": "বাংলা ১ম পত্র",
+    "chapter": "কপোতাক্ষ নদ",
+    "question": "কপোতাক্ষ নদের দুধ-স্রোত রূপ কাকে তুলনা করা হয়েছে?",
+    "options": [
+      "মাতৃদুগ্ধ",
+      "মধুর ধারা",
+      "স্বর্গের জল",
+      "মৃত্তিকার রস"
+    ],
+    "correctIndex": 0,
+    "explanation": "'দুগ্ধ-স্রোতোরূপী তুমি জন্মভূমি-স্তনে'—কবি কপোতাক্ষের জলকে মায়ের দুধের সঙ্গে তুলনা করেছেন।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_16",
+    "subject": "বাংলা ১ম পত্র",
+    "chapter": "কপোতাক্ষ নদ",
+    "question": "'কপোতাক্ষ নদ' কবিতায় অষ্টকের মিলবিন্যাস কোনটি?",
+    "options": [
+      "কখকখ কখকখ",
+      "কখখক কখখক",
+      "কখকখ খকখক",
+      "ককখখ ককখখ"
+    ],
+    "correctIndex": 0,
+    "explanation": "মাইকেল মধুসূদন দত্তের 'কপোতাক্ষ নদ' কবিতায় অষ্টকের অন্ত্যমিল হলো কখকখ কখকখ।",
+    "difficulty": "hard"
+  },
+  {
+    "id": "subsubsub_17",
+    "subject": "বাংলা ১ম পত্র",
+    "chapter": "বঙ্গবাণী",
+    "question": "'বঙ্গবাণী' কবিতার কবি কে?",
+    "options": [
+      "আব্দুল হাকিম",
+      "আলাওল",
+      "দৌলত কাজী",
+      "শাহ মুহম্মদ সগীর"
+    ],
+    "correctIndex": 0,
+    "explanation": "মধ্যযুগের বিখ্যাত কবি আব্দুল হাকিম তাঁর নূরনামা কাব্যগ্রন্থের অন্তর্গত 'বঙ্গবাণী' কবিতায় মাতৃভাষার প্রতি অকৃত্রিম ভালোবাসা প্রকাশ করেছেন।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_18",
+    "subject": "বাংলা ১ম পত্র",
+    "chapter": "বঙ্গবাণী",
+    "question": "'যে সবে বঙ্গেত জন্মি হিংসে বঙ্গবাণী / সে সব কাহার জন্ম নির্ণয় ন জানি'—উক্তিটিতে কী প্রকাশ পেয়েছে?",
+    "options": [
+      "তীব্র ক্ষোভ ও ধিক্কার",
+      "বিনম্র অনুরোধ",
+      "ইতিহাসের বর্ণনা",
+      "ধর্মোপদেশ"
+    ],
+    "correctIndex": 0,
+    "explanation": "মাতৃভাষা বাংলাকে অবজ্ঞা করা মানুষদের প্রতি কবি তীব্র ঘৃণা ও ক্ষোভ প্রকাশ করেছেন।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_19",
+    "subject": "বাংলা ১ম পত্র",
+    "chapter": "জীবন-সঙ্গীত",
+    "question": "হেমচন্দ্র বন্দ্যোপাধ্যায়ের 'জীবন-সঙ্গীত' কোন কবিতার ভাবানুবাদ?",
+    "options": [
+      "A Psalm of Life",
+      "Daffodils",
+      "Ode to the West Wind",
+      "Solitary Reaper"
+    ],
+    "correctIndex": 0,
+    "explanation": "আমেরিকান কবি হেনরি ওয়াডসওয়ার্থ লংফেলো-র 'A Psalm of Life' কবিতার ভাবানুবাদ হলো 'জীবন-সঙ্গীত'।",
+    "difficulty": "hard"
+  },
+  {
+    "id": "subsubsub_20",
+    "subject": "বাংলা ১ম পত্র",
+    "chapter": "মানুষ",
+    "question": "কাজী নজরুল ইসলামের 'মানুষ' কবিতায় ক্ষুধার্ত পথচারী কয়দিন অনাহারে ছিল?",
+    "options": [
+      "সাত দিন",
+      "তিন দিন",
+      "দশ দিন",
+      "পাঁচ দিন"
+    ],
+    "correctIndex": 0,
+    "explanation": "ভুখারি বলে, 'ভূখা আছি বাবা আজ নিয়ে সাত দিন!' কিন্তু স্বার্থপর পুরোহিত মন্দিরের দুয়ার বন্ধ করে দেয়।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_21",
+    "subject": "বাংলা ১ম পত্র",
+    "chapter": "মানুষ",
+    "question": "'মানুষ' কবিতাটি নজরুলের কোন কাব্যগ্রন্থ থেকে সংকলিত?",
+    "options": [
+      "সাম্যবাদী",
+      "অগ্নিবীণা",
+      "বিষের বাঁশী",
+      "সর্বহারা"
+    ],
+    "correctIndex": 0,
+    "explanation": "কাজী নজরুল ইসলামের বিখ্যাত মানবিক সাম্যমূলক কাব্যগ্রন্থ 'সাম্যবাদী' থেকে 'মানুষ' কবিতাটি নেওয়া হয়েছে।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_22",
+    "subject": "বাংলা ১ম পত্র",
+    "chapter": "পল্লীজননী",
+    "question": "জসীম উদ্‌দীনের 'পল্লীজননী' কবিতায় রুগ্ণ ছেলের শিয়রে বসে মা কী করছেন?",
+    "options": [
+      "জেগে জেগে প্রার্থনা করছেন",
+      "গান গাইছেন",
+      "ঘুমাচ্ছেন",
+      "রান্না করছেন"
+    ],
+    "correctIndex": 0,
+    "explanation": "পল্লীজননী কবিতায় গভীর রাতে নিবু নিবু প্রদীপের সামনে একাকী দরিদ্র মা সন্তানের রোগমুক্তির জন্য দুশ্চিন্তায় প্রহর গুনছেন।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_23",
+    "subject": "বাংলা ১ম পত্র",
+    "chapter": "পল্লীজননী",
+    "question": "ছেলে ভালো হলে কার সাথে খেলতে যাওয়ার বায়না ধরে?",
+    "options": [
+      "রহিমের সাথে",
+      "করিমের সাথে",
+      "আলী আকবরের সাথে",
+      "বদিউজ্জামানের সাথে"
+    ],
+    "correctIndex": 0,
+    "explanation": "ছেলে সুস্থ হলে সাথী রহিমের সাথে সারাদিন বনে বনে ঘুরে খেলতে যাওয়ার আবদার করে।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_24",
+    "subject": "বাংলা ১ম পত্র",
+    "chapter": "একাত্তরের দিনগুলি",
+    "question": "'একাত্তরের দিনগুলি' কোন পটভূমিতে রচিত স্মৃতিচারণমূলক দিনলিপি?",
+    "options": [
+      "১৯৭১ সালের মুক্তিযুদ্ধ",
+      "১৯৫২ সালের ভাষা আন্দোলন",
+      "১৯৬৯ সালের গণঅভ্যুত্থান",
+      "১৯৬৬ সালের ছয় দফা"
+    ],
+    "correctIndex": 0,
+    "explanation": "জাহানারা ইমাম রচিত এই গ্রন্থে ১৯৭১ সালের অবরুদ্ধ ঢাকার করুণ ও বীরত্বপূর্ণ দিনগুলোর দলিল সংরক্ষিত আছে।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_25",
+    "subject": "বাংলা ১ম পত্র",
+    "chapter": "একাত্তরের দিনগুলি",
+    "question": "জাহানারা ইমামের শহীদ বীর মুক্তিযোদ্ধা ছেলের নাম কী?",
+    "options": [
+      "শাফী ইমাম রুমী",
+      "জামী",
+      "শরীফ",
+      "বদি"
+    ],
+    "correctIndex": 0,
+    "explanation": "জাহানারা ইমামের জ্যেষ্ঠ পুত্র শাফী ইমাম রুমী ছিলেন ক্র্যাক প্লাটুনের দুঃসাহসী গেরিলা যোদ্ধা।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_26",
+    "subject": "বাংলা ১ম পত্র",
+    "chapter": "একাত্তরের দিনগুলি",
+    "question": "জাহানারা ইমামকে বাংলাদেশের মানুষ কোন শ্রদ্ধার উপাধিতে ভূষিত করেছেন?",
+    "options": [
+      "শহীদ জননী",
+      "দেশমাতা",
+      "বঙ্গমাতা",
+      "জননী সাহসিকা"
+    ],
+    "correctIndex": 0,
+    "explanation": "মুক্তিযুদ্ধের অনন্য স্মৃতিকথা এবং যুদ্ধাপরাধীদের বিচারের আন্দোলনের নেতৃত্ব দেওয়ায় তাঁকে 'শহীদ জননী' বলা হয়।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_27",
+    "subject": "বাংলা ২য় পত্র",
+    "chapter": "ধ্বনি ও বর্ণ",
+    "question": "বাংলা বর্ণমালায় মোট কতটি বর্ণ রয়েছে?",
+    "options": [
+      "৫০টি",
+      "৩৯টি",
+      "১১টি",
+      "৫২টি"
+    ],
+    "correctIndex": 0,
+    "explanation": "বাংলা বর্ণমালায় স্বরবর্ণ ১১টি এবং ব্যঞ্জনবর্ণ ৩৯টি, মোট ৫০টি বর্ণ রয়েছে।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_28",
+    "subject": "বাংলা ২য় পত্র",
+    "chapter": "ধ্বনি ও বর্ণ",
+    "question": "বাংলা ব্যাকরণে মাত্রাহীন বর্ণ কয়টি?",
+    "options": [
+      "১০টি",
+      "৮টি",
+      "৬টি",
+      "৭টি"
+    ],
+    "correctIndex": 0,
+    "explanation": "মাত্রাহীন বর্ণ মোট ১০টি (স্বরবর্ণ ৪টি: এ, ঐ, ও, ঔ এবং ব্যঞ্জনবর্ণ ৬টি: ঙ, ঞ, ৎ, ং, ঃ, ঁ)।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_29",
+    "subject": "বাংলা ২য় পত্র",
+    "chapter": "ধ্বনি ও বর্ণ",
+    "question": "কোন ধ্বনি উচ্চারণে স্বরতন্ত্রী অনুরণিত হয়?",
+    "options": [
+      "ঘোষ ধ্বনি",
+      "অঘোষ ধ্বনি",
+      "অল্পপ্রাণ ধ্বনি",
+      "মহাপ্রাণ ধ্বনি"
+    ],
+    "correctIndex": 0,
+    "explanation": "যেসব ধ্বনি উচ্চারণের সময় স্বরতন্ত্রী বেশি কাঁপে বা অনুরণিত হয়, সেগুলোকে ঘোষ ধ্বনি বলে (যেমন: গ, ঘ, ব, ভ)।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_30",
+    "subject": "বাংলা ২য় পত্র",
+    "chapter": "ণ-ত্ব ও ষ-ত্ব বিধান",
+    "question": "কোন জাতীয় শব্দে 'ষ' ব্যবহার হয় না?",
+    "options": [
+      "তৎসম শব্দ",
+      "তদ্ভব ও বিদেশি শব্দ",
+      "সংস্কৃত শব্দ",
+      "অর্ধ-তৎসম শব্দ"
+    ],
+    "correctIndex": 1,
+    "explanation": "ণ-ত্ব ও ষ-ত্ব বিধান কেবল খাঁটি তৎসম (সংস্কৃত) শব্দের ক্ষেত্রে প্রযোজ্য। বিদেশি বা খাঁটি বাংলা শব্দে মূর্ধন্য-ষ হয় না (যেমন: স্টেশন, পোস্ট)।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_31",
+    "subject": "বাংলা ২য় পত্র",
+    "chapter": "ণ-ত্ব ও ষ-ত্ব বিধান",
+    "question": "স্বভাবতই মূর্ধন্য-ণ হয়েছে এমন উদাহরণ কোনটি?",
+    "options": [
+      "চাণক্য",
+      "কৃপণ",
+      "বর্ণ",
+      "তৃণ"
+    ],
+    "correctIndex": 0,
+    "explanation": "'চাণক্য মাণিক্য গণ বাণিজ্য লবণ মণ'—এসব শব্দে কোনো নিয়ম ছাড়া স্বভাবতই মূর্ধন্য-ণ হয়।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_32",
+    "subject": "বাংলা ২য় পত্র",
+    "chapter": "সন্ধি",
+    "question": "'বিদ্যালয়' শব্দটির সঠিক সন্ধিবিচ্ছেদ কোনটি?",
+    "options": [
+      "বিদ্যা + আলয়",
+      "বিদ্য + আলয়",
+      "বিদ্যা + লয়",
+      "বিদ + আলয়"
+    ],
+    "correctIndex": 0,
+    "explanation": "স্বরসন্ধির নিয়ম অনুযায়ী আ + আ = আ হয়ে 'বিদ্যালয়' গঠিত হয়।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_33",
+    "subject": "বাংলা ২য় পত্র",
+    "chapter": "সন্ধি",
+    "question": "'গায়ক' শব্দের সঠিক সন্ধিবিচ্ছেদ কোনটি?",
+    "options": [
+      "গৈ + অক",
+      "গা + অক",
+      "গো + অক",
+      "গে + অক"
+    ],
+    "correctIndex": 0,
+    "explanation": "ঐ-কারের পর অন্য স্বরবর্ণ থাকলে ঐ স্থানে আয়্ হয়। তাই গৈ + অক = গায়ক।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_34",
+    "subject": "বাংলা ২য় পত্র",
+    "chapter": "সন্ধি",
+    "question": "নিপাতনে সিদ্ধ ব্যঞ্জনসন্ধির উদাহরণ কোনটি?",
+    "options": [
+      "পরস্পর",
+      "উদ্ধার",
+      "সংবাদ",
+      "দিগন্ত"
+    ],
+    "correctIndex": 0,
+    "explanation": "পর + পর = পরস্পর কোনো সাধারণ ব্যাকরণগত নিয়মে পড়ে না, তাই এটি নিপাতনে সিদ্ধ সন্ধি।",
+    "difficulty": "hard"
+  },
+  {
+    "id": "subsubsub_35",
+    "subject": "বাংলা ২য় পত্র",
+    "chapter": "সমাস",
+    "question": "যে সমাসে প্রত্যেকটি সমস্যমান পদের অর্থের সমান প্রাধান্য থাকে তাকে কী বলে?",
+    "options": [
+      "দ্বন্দ্ব সমাস",
+      "দ্বিগু সমাস",
+      "তৎপুরুষ সমাস",
+      "বহুব্রীহি সমাস"
+    ],
+    "correctIndex": 0,
+    "explanation": "দ্বন্দ্ব সমাসে পূর্বপদ ও পরপদ উভয়ের অর্থই সমভাবে প্রধান থাকে, যেমন: মা ও বাবা = মা-বাবা।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_36",
+    "subject": "বাংলা ২য় পত্র",
+    "chapter": "সমাস",
+    "question": "'পীতাম্বর' কোন সমাসের উদাহরণ?",
+    "options": [
+      "বহুব্রীহি সমাস",
+      "কর্মধারয় সমাস",
+      "তৎপুরুষ সমাস",
+      "অব্যয়ীভাব সমাস"
+    ],
+    "correctIndex": 0,
+    "explanation": "পীত অম্বর (বস্ত্র) যার = পীতাম্বর (শ্রীকৃষ্ণকে বোঝায়)। অন্য কোনো পদ প্রধান না হয়ে তৃতীয় পদ বোঝালে বহুব্রীহি হয়।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_37",
+    "subject": "বাংলা ২য় পত্র",
+    "chapter": "সমাস",
+    "question": "পরপদের অর্থ প্রধান থাকে কোন সমাসে?",
+    "options": [
+      "তৎপুরুষ ও কর্মধারয় সমাসে",
+      "দ্বন্দ্ব সমাসে",
+      "বহুব্রীহি সমাসে",
+      "নিত্য সমাসে"
+    ],
+    "correctIndex": 0,
+    "explanation": "তৎপুরুষ, কর্মধারয় এবং দ্বিগু সমাসে পরপদের অর্থ প্রাধান্য পায়।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_38",
+    "subject": "বাংলা ২য় পত্র",
+    "chapter": "সমাস",
+    "question": "'হাতাহাতি' কোন প্রকারের বহুব্রীহি সমাস?",
+    "options": [
+      "ব্যতিহার বহুব্রীহি",
+      "সংখ্যাবাচক বহুব্রীহি",
+      "সমানাধিকরণ বহুব্রীহি",
+      "প্রত্যয়ান্ত বহুব্রীহি"
+    ],
+    "correctIndex": 0,
+    "explanation": "হাতে হাতে যে যুদ্ধ = হাতাহাতি। একই কাজের পারস্পরিক ক্রিয়া বোঝাতে ব্যতিহার বহুব্রীহি সমাস হয়।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_39",
+    "subject": "বাংলা ২য় পত্র",
+    "chapter": "কারক ও বিভক্তি",
+    "question": "ক্রিয়ার সাথে যাঁর প্রত্যক্ষ সম্পর্ক থাকে তাকে কী বলে?",
+    "options": [
+      "কারক",
+      "সমাস",
+      "প্রত্যয়",
+      "উপসর্গ"
+    ],
+    "correctIndex": 0,
+    "explanation": "বাক্যস্থিত ক্রিয়াপদের সঙ্গে নামপদের যে প্রত্যক্ষ সম্পর্ক তাকে কারক বলে। কারক ছয় প্রকার।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_40",
+    "subject": "বাংলা ২য় পত্র",
+    "chapter": "কারক ও বিভক্তি",
+    "question": "'তিলে তৈল আছে'—এখানে 'তিলে' কোন কারকে কোন বিভক্তি?",
+    "options": [
+      "অধিকরণে ৭মী",
+      "অপাদানে ৭মী",
+      "করণে ৭মী",
+      "কর্মে ৭মী"
+    ],
+    "correctIndex": 0,
+    "explanation": "তিলে তৈল সর্বাঙ্গে ব্যাপে রয়েছে (অভিব্যাপক আধার), তাই এটি অধিকরণ কারকে সপ্তমী বিভক্তি। উল্লেখ্য, 'তিল থেকে তৈল হয়' হলে অপাদান হতো।",
+    "difficulty": "hard"
+  },
+  {
+    "id": "subsubsub_41",
+    "subject": "বাংলা ২য় পত্র",
+    "chapter": "কারক ও বিভক্তি",
+    "question": "'কলমে কায়স্থ চিনি'—এখানে 'কলমে' কোন কারক?",
+    "options": [
+      "করণ কারক",
+      "কর্তৃকারক",
+      "কর্ম কারক",
+      "অপাদান কারক"
+    ],
+    "correctIndex": 0,
+    "explanation": "যার সাহায্যে ক্রিয়া সম্পাদিত হয় তাকে করণ কারক বলে। কলম হলো চেনার সহায়ক উপকরণ।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_42",
+    "subject": "বাংলা ২য় পত্র",
+    "chapter": "উপসর্গ",
+    "question": "বাংলা ভাষায় উপসর্গ কয় প্রকার?",
+    "options": [
+      "৩ প্রকার",
+      "৪ প্রকার",
+      "২ প্রকার",
+      "৫ প্রকার"
+    ],
+    "correctIndex": 0,
+    "explanation": "বাংলা ভাষায় উপসর্গ তিন প্রকার: খাঁটি বাংলা উপসর্গ (২১টি), তৎসম উপসর্গ (২০টি) এবং বিদেশি উপসর্গ।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_43",
+    "subject": "বাংলা ২য় পত্র",
+    "chapter": "উপসর্গ",
+    "question": "কোন চারটি উপসর্গ বাংলা ও তৎসম উভয় স্থানে ব্যবহৃত হয়?",
+    "options": [
+      "আ, সু, বি, নি",
+      "প্র, পরা, অপ, সম",
+      "অ, অনা, কু, সু",
+      "হর, গর, বদ, বে"
+    ],
+    "correctIndex": 0,
+    "explanation": "'আ, সু, বি, নি'—এই চারটি উপসর্গ খাঁটি বাংলা এবং সংস্কৃত (তৎসম) উভয় প্রকারের মধ্যেই রয়েছে।",
+    "difficulty": "hard"
+  },
+  {
+    "id": "subsubsub_44",
+    "subject": "বাংলা ২য় পত্র",
+    "chapter": "শব্দ ও পদ",
+    "question": "'পঙ্কজ' কোন শ্রেণির শব্দ?",
+    "options": [
+      "যোগরূঢ় শব্দ",
+      "যৌগিক শব্দ",
+      "রূঢ়ি শব্দ",
+      "তদ্ভব শব্দ"
+    ],
+    "correctIndex": 0,
+    "explanation": "পঙ্কে জন্মে যা = পঙ্কজ। ব্যুৎপত্তিগত অর্থে শ্যাওলা, শামুক হলেও এটি কেবল 'পদ্মফুল' অর্থে ব্যবহৃত হয়, তাই এটি যোগরূঢ় শব্দ।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_45",
+    "subject": "বাংলা ২য় পত্র",
+    "chapter": "শব্দ ও পদ",
+    "question": "'হস্তী' কোন ধরনের শব্দ?",
+    "options": [
+      "রূঢ়ি শব্দ",
+      "যোগরূঢ় শব্দ",
+      "যৌগিক শব্দ",
+      "দেশি শব্দ"
+    ],
+    "correctIndex": 0,
+    "explanation": "হাত + ইন = হস্তী। ব্যুৎপত্তিগত অর্থে হাত বিশিষ্ট হলেও বিশিষ্ট অর্থে বিশেষ পশু (হাতি) বোঝায়, তাই রূঢ়ি শব্দ।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_46",
+    "subject": "বাংলা ২য় পত্র",
+    "chapter": "বাক্য প্রকরণ",
+    "question": "একটি সার্থক বাক্যের কয়টি গুণ বা বৈশিষ্ট্য থাকা আবশ্যক?",
+    "options": [
+      "৩টি",
+      "৪টি",
+      "২টি",
+      "৫টি"
+    ],
+    "correctIndex": 0,
+    "explanation": "একটি সার্থক বাক্যের তিনটি প্রধান গুণ থাকে: আকাঙ্ক্ষা, আসত্তি ও যোগ্যতা।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_47",
+    "subject": "বাংলা ২য় পত্র",
+    "chapter": "বাক্য প্রকরণ",
+    "question": "বাক্যে পদগুলোকে অর্থসঙ্গতি রেখে সাজানোকে কী বলে?",
+    "options": [
+      "আসত্তি",
+      "আকাঙ্ক্ষা",
+      "যোগ্যতা",
+      "গুরুচণ্ডালী"
+    ],
+    "correctIndex": 0,
+    "explanation": "বাক্যের পদগুলোকে সুশৃঙ্খলভাবে বা ব্যাকরণগত ধারাবাহিকতায় সন্নিবেশিত রাখাকে আসত্তি বলে।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_48",
+    "subject": "বাংলা ২য় পত্র",
+    "chapter": "বাক্য প্রকরণ",
+    "question": "'বরষা এলে প্লাবন হয়'—এটি গঠন অনুসারে কোন প্রকারের বাক্য?",
+    "options": [
+      "সরল বাক্য",
+      "মিশ্র বা জটিল বাক্য",
+      "যৌগিক বাক্য",
+      "আবেগসূচক বাক্য"
+    ],
+    "correctIndex": 0,
+    "explanation": "যে বাক্যে একটিমাত্র কর্তা এবং একটিমাত্র সমাপিকা ক্রিয়া থাকে তাকে সরল বাক্য বলে।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_49",
+    "subject": "বাংলা ২য় পত্র",
+    "chapter": "বাগধারা",
+    "question": "'অগাধ জলের মাছ' বাগধারাটির প্রকৃত অর্থ কী?",
+    "options": [
+      "খুব চালাক ব্যক্তি",
+      "অসহায় ব্যক্তি",
+      "বিশাল ধনী",
+      "শত্রুভাবাপন্ন ব্যক্তি"
+    ],
+    "correctIndex": 0,
+    "explanation": "বাংলা বাগধারায় 'অগাধ জলের মাছ' বলতে অত্যন্ত ধূর্ত বা সুচতুর ব্যক্তিকে নির্দেশ করা হয়।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_50",
+    "subject": "বাংলা ২য় পত্র",
+    "chapter": "বাগধারা",
+    "question": "'ডুমুরের ফুল' বাগধারার অর্থ কী?",
+    "options": [
+      "অদৃশ্য বা দুর্লভ বস্তু",
+      "সৌভাগ্যবান",
+      "ক্ষণস্থায়ী",
+      "কপটচারী"
+    ],
+    "correctIndex": 0,
+    "explanation": "ডুমুরের ফুল সচরাচর চোখে পড়ে না, তাই অতি দুর্লভ ও অমিল বস্তুকে ডুমুরের ফুল বলা হয়।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_51",
+    "subject": "বাংলা ২য় পত্র",
+    "chapter": "বিরামচিহ্ন",
+    "question": "বাংলা ব্যাকরণে কোনো বাক্যে সবচেয়ে কম সময় থামতে হয় কোন চিহ্নে?",
+    "options": [
+      "কমা (,) ও উদ্ধরণ চিহ্ন",
+      "সেমিকোলন (;)",
+      "দাঁড়ি (।)",
+      "কোলন (:)"
+    ],
+    "correctIndex": 0,
+    "explanation": "কমা এবং উদ্ধরণ চিহ্নে এক বলতে যে সময় প্রয়োজন (১ সেকেন্ডের এক-চতুর্থাংশ) সেটুকু সময় থামতে হয়।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_52",
+    "subject": "বাংলা ২য় পত্র",
+    "chapter": "বিরামচিহ্ন",
+    "question": "হাইফেন (-) চিহ্নে থামার নিয়ম কী?",
+    "options": [
+      "থামার প্রয়োজন নেই",
+      "১ সেকেন্ড",
+      "এক বলার দ্বিগুণ সময়",
+      "অর্ধ সেকেন্ড"
+    ],
+    "correctIndex": 0,
+    "explanation": "হাইফেন এবং ইলেক বা লোপ চিহ্নে উচ্চারণে থামার কোনো নিয়ম বা প্রয়োজন নেই।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "eng_53",
+    "subject": "English 1st Paper",
+    "chapter": "Unit 1: Good Citizens",
+    "question": "What is the primary responsibility of a good citizen?",
+    "options": [
+      "Following laws and contributing to society",
+      "Earning maximum wealth",
+      "Living in seclusion",
+      "Criticizing public infrastructure"
+    ],
+    "correctIndex": 0,
+    "explanation": "According to Unit 1, good citizens know their rights, perform duties, respect laws, and foster societal harmony.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "eng_54",
+    "subject": "English 1st Paper",
+    "chapter": "Unit 1: Good Citizens",
+    "question": "What does the word 'civic' in 'civic responsibility' mean?",
+    "options": [
+      "Relating to citizens and society",
+      "Related to wildlife",
+      "Related to military force",
+      "Related to monetary profits"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Civic' pertains to a city, citizen, or citizenship duties within a civilized community.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "eng_55",
+    "subject": "English 1st Paper",
+    "chapter": "Unit 2: Pastimes",
+    "question": "Which of the following is considered a healthy physical pastime?",
+    "options": [
+      "Swimming and cycling",
+      "Continuous video gaming",
+      "Binge-watching shows",
+      "Daydreaming without action"
+    ],
+    "correctIndex": 0,
+    "explanation": "Physical outdoor pastimes like swimming, walking, and cycling revitalize body and mind.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "eng_56",
+    "subject": "English 1st Paper",
+    "chapter": "Unit 2: Pastimes",
+    "question": "The word 'rejuvenate' most closely means:",
+    "options": [
+      "To revitalize or refresh",
+      "To make older",
+      "To destroy completely",
+      "To freeze in time"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Rejuvenate' means to make someone feel young, lively, energetic, and invigorated again.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "eng_57",
+    "subject": "English 1st Paper",
+    "chapter": "Unit 3: Events & Festivals",
+    "question": "May Day is observed worldwide to commemorate:",
+    "options": [
+      "The historic struggle of working-class people",
+      "The arrival of spring season",
+      "The foundation of the UN",
+      "The victory of World War II"
+    ],
+    "correctIndex": 0,
+    "explanation": "May Day (1st May) honors the heroic sacrifices made by Chicago workers in 1886 for an 8-hour workday.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "eng_58",
+    "subject": "English 1st Paper",
+    "chapter": "Unit 3: Events & Festivals",
+    "question": "What is the Bengali New Year celebration known as?",
+    "options": [
+      "Pohela Boishakh",
+      "Pohela Falgun",
+      "Nabanna",
+      "Ekushey February"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pohela Boishakh marks the first day of the Bengali calendar, celebrated with traditional songs, panta-ilish, and Mongol Shobhajatra.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "eng_59",
+    "subject": "English 1st Paper",
+    "chapter": "Unit 3: Events & Festivals",
+    "question": "In Bangladesh, 21st February is internationally recognized by UNESCO as:",
+    "options": [
+      "International Mother Language Day",
+      "World Peace Day",
+      "World Literacy Day",
+      "International Workers' Day"
+    ],
+    "correctIndex": 0,
+    "explanation": "UNESCO declared 21st February as International Mother Language Day in 1999 to honor the language martyrs of 1952.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "eng_60",
+    "subject": "English 1st Paper",
+    "chapter": "Unit 3: Events & Festivals",
+    "question": "The Monument 'Shaheed Minar' in Dhaka commemorates the martyrs of:",
+    "options": [
+      "The 1952 Language Movement",
+      "The 1971 Liberation War",
+      "The 1969 Mass Upsurge",
+      "The 1966 Six-Point Movement"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Central Shaheed Minar honors Salam, Barkat, Rafiq, Jabbar, and Shafiur who sacrificed their lives for Bangla.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "eng_61",
+    "subject": "English 1st Paper",
+    "chapter": "Unit 5: Nature & Environment",
+    "question": "What is the main greenhouse gas responsible for global warming?",
+    "options": [
+      "Carbon dioxide (CO2)",
+      "Argon",
+      "Helium",
+      "Hydrogen"
+    ],
+    "correctIndex": 0,
+    "explanation": "Carbon dioxide from fossil fuel combustion traps heat in the atmosphere, creating the greenhouse effect.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "eng_62",
+    "subject": "English 1st Paper",
+    "chapter": "Unit 5: Nature & Environment",
+    "question": "Deforestation directly leads to:",
+    "options": [
+      "Loss of biodiversity and soil erosion",
+      "Increase in groundwater levels",
+      "Rapid cooling of planetary climates",
+      "Reduction in atmospheric carbon"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cutting down trees destroys wildlife habitats and increases greenhouse gases, causing severe environmental imbalance.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "eng_63",
+    "subject": "English 1st Paper",
+    "chapter": "Unit 5: Nature & Environment",
+    "question": "What is meant by the word 'ecosystem'?",
+    "options": [
+      "A biological community interacting with its physical environment",
+      "A computer operating system",
+      "An economic policy of a state",
+      "A system of electrical circuits"
+    ],
+    "correctIndex": 0,
+    "explanation": "An ecosystem encompasses all living organisms interacting with biotic and abiotic environmental elements.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "eng_64",
+    "subject": "English 1st Paper",
+    "chapter": "Unit 7: Climate Change",
+    "question": "Why is Bangladesh particularly vulnerable to climate change?",
+    "options": [
+      "Low-lying delta topography and sea-level rise",
+      "High alpine snow caps",
+      "Extensive polar glaciers",
+      "Lack of rivers"
+    ],
+    "correctIndex": 0,
+    "explanation": "As a low-lying riverine delta, rising sea levels and intense cyclones severely affect coastal regions of Bangladesh.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "eng_65",
+    "subject": "English 1st Paper",
+    "chapter": "Unit 7: Climate Change",
+    "question": "What does the abbreviation 'IPCC' stand for?",
+    "options": [
+      "Intergovernmental Panel on Climate Change",
+      "International Protection of Coastal Cities",
+      "Integrated Project for Carbon Control",
+      "Institute of Planetary Climate Care"
+    ],
+    "correctIndex": 0,
+    "explanation": "The IPCC is the United Nations body for assessing the science related to climate change.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "eng_66",
+    "subject": "English 1st Paper",
+    "chapter": "Unit 11: Power & Energy",
+    "question": "Which of the following is a non-renewable energy source?",
+    "options": [
+      "Coal and natural gas",
+      "Solar energy",
+      "Wind power",
+      "Hydroelectric energy"
+    ],
+    "correctIndex": 0,
+    "explanation": "Coal, petroleum, and natural gas are fossil fuels that deplete over time and cannot be renewed naturally in human timeframes.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "eng_67",
+    "subject": "English 1st Paper",
+    "chapter": "Unit 11: Power & Energy",
+    "question": "Solar panels convert sunlight directly into:",
+    "options": [
+      "Electrical energy",
+      "Sound energy",
+      "Nuclear radiation",
+      "Hydrostatic pressure"
+    ],
+    "correctIndex": 0,
+    "explanation": "Photovoltaic cells inside solar panels convert photon energy from solar radiation into direct electrical current.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "eng_68",
+    "subject": "English 1st Paper",
+    "chapter": "Vocabulary & Reading",
+    "question": "The antonym of the word 'abundant' is:",
+    "options": [
+      "Scarce",
+      "Plentiful",
+      "Excessive",
+      "Lavish"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Abundant' means plentiful or available in large quantities; its exact opposite is 'scarce' (rare or in short supply).",
+    "difficulty": "easy"
+  },
+  {
+    "id": "eng_69",
+    "subject": "English 1st Paper",
+    "chapter": "Vocabulary & Reading",
+    "question": "Choose the correct synonym of 'perseverance':",
+    "options": [
+      "Persistence",
+      "Hesitation",
+      "Weakness",
+      "Lethargy"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Perseverance' means continuous effort and determination despite difficulties or delays.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "eng_70",
+    "subject": "English 1st Paper",
+    "chapter": "Vocabulary & Reading",
+    "question": "What is the meaning of the idiom 'a blessing in disguise'?",
+    "options": [
+      "A good thing that seemed bad at first",
+      "An obvious misfortune",
+      "A religious ceremony",
+      "A secret conspiracy"
+    ],
+    "correctIndex": 0,
+    "explanation": "A blessing in disguise refers to an event that appears harmful initially but brings unexpected benefits later.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "eng_71",
+    "subject": "English 1st Paper",
+    "chapter": "Vocabulary & Reading",
+    "question": "Select the word with the correct spelling:",
+    "options": [
+      "Accommodation",
+      "Acommodation",
+      "Accomodation",
+      "Acomodation"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Accommodation' has double 'c' and double 'm' (a-c-c-o-m-m-o-d-a-t-i-o-n).",
+    "difficulty": "medium"
+  },
+  {
+    "id": "eng_72",
+    "subject": "English 1st Paper",
+    "chapter": "Unit 8: World Heritage",
+    "question": "The Shat Gombuj Mosque is located in which district of Bangladesh?",
+    "options": [
+      "Bagerhat",
+      "Bogura",
+      "Cumilla",
+      "Rajshahi"
+    ],
+    "correctIndex": 0,
+    "explanation": "The 15th-century historic Shat Gombuj Mosque, founded by Khan Jahan Ali, is situated in Bagerhat and listed as UNESCO World Heritage.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "eng_73",
+    "subject": "English 1st Paper",
+    "chapter": "Unit 8: World Heritage",
+    "question": "The Sundarbans is renowned as the home of which iconic animal?",
+    "options": [
+      "Royal Bengal Tiger",
+      "African Lion",
+      "Snow Leopard",
+      "Polar Bear"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Sundarbans mangrove forest in southern Bangladesh is the largest natural habitat of the endangered Royal Bengal Tiger.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "eng_74",
+    "subject": "English 1st Paper",
+    "chapter": "Reading Skills",
+    "question": "When you read a passage quickly to find a specific phone number or date, the technique is called:",
+    "options": [
+      "Scanning",
+      "Skimming",
+      "Extensive reading",
+      "Critical analysis"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Scanning' is rapid reading to search for specific data or facts, whereas 'skimming' gets the general gist.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "eng_75",
+    "subject": "English 1st Paper",
+    "chapter": "Reading Skills",
+    "question": "What is the main topic sentence of a paragraph usually intended to do?",
+    "options": [
+      "State the central idea of the paragraph",
+      "List minor supporting details",
+      "Provide a humorous joke",
+      "Conclude the entire essay"
+    ],
+    "correctIndex": 0,
+    "explanation": "The topic sentence introduces the main focus and controlling thought that the rest of the paragraph develops.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "eng_76",
+    "subject": "English 1st Paper",
+    "chapter": "Unit 4: Are We Aware?",
+    "question": "Which term describes illnesses resulting from contaminated drinking water?",
+    "options": [
+      "Water-borne diseases",
+      "Air-borne epidemics",
+      "Nutritional deficiencies",
+      "Genetic disorders"
+    ],
+    "correctIndex": 0,
+    "explanation": "Diseases like cholera, typhoid, and diarrhea spread through contaminated water and are termed water-borne.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "eng_77",
+    "subject": "English 1st Paper",
+    "chapter": "Unit 9: Unconventional Jobs",
+    "question": "Who is regarded as the pioneer of modern artistic photography in Bangladesh?",
+    "options": [
+      "Shahidul Alam",
+      "Zainul Abedin",
+      "SM Sultan",
+      "Qayyum Chowdhury"
+    ],
+    "correctIndex": 0,
+    "explanation": "Renowned photojournalist and social activist Dr. Shahidul Alam pioneered modern documentary photography.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "eng_78",
+    "subject": "English 1st Paper",
+    "chapter": "Vocabulary & Reading",
+    "question": "The word 'fragile' is closest in meaning to:",
+    "options": [
+      "Delicate or easily broken",
+      "Indestructible",
+      "Massive and heavy",
+      "Flexible like rubber"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Fragile' describes items that can break or shatter easily if mishandled.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "eng_79",
+    "subject": "English 2nd Paper",
+    "chapter": "Tense",
+    "question": "He _____ here since Monday. (Choose the correct verb form)",
+    "options": [
+      "has been living",
+      "is living",
+      "lived",
+      "lives"
+    ],
+    "correctIndex": 0,
+    "explanation": "Actions that started in the past and continue into the present with 'since' require Present Perfect Continuous Tense.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "eng_80",
+    "subject": "English 2nd Paper",
+    "chapter": "Tense",
+    "question": "The patient had died before the doctor _____.",
+    "options": [
+      "came",
+      "comes",
+      "had come",
+      "was coming"
+    ],
+    "correctIndex": 0,
+    "explanation": "In past perfect clauses connected by 'before', the earlier action takes Past Perfect and the later action takes Past Indefinite ('came').",
+    "difficulty": "easy"
+  },
+  {
+    "id": "eng_81",
+    "subject": "English 2nd Paper",
+    "chapter": "Tense",
+    "question": "When water freezes, it _____ into ice.",
+    "options": [
+      "turns",
+      "turned",
+      "will turn",
+      "turning"
+    ],
+    "correctIndex": 0,
+    "explanation": "Universal truths and scientific facts in zero conditional statements are always expressed in the Simple Present tense.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "eng_82",
+    "subject": "English 2nd Paper",
+    "chapter": "Subject-Verb Agreement",
+    "question": "Neither he nor his friends _____ present in the seminar yesterday.",
+    "options": [
+      "were",
+      "was",
+      "are",
+      "is"
+    ],
+    "correctIndex": 0,
+    "explanation": "When subjects are joined by 'neither...nor', the verb agrees with the closer subject ('friends' is plural, past tense = 'were').",
+    "difficulty": "medium"
+  },
+  {
+    "id": "eng_83",
+    "subject": "English 2nd Paper",
+    "chapter": "Subject-Verb Agreement",
+    "question": "Slow and steady _____ the race.",
+    "options": [
+      "wins",
+      "win",
+      "is winning",
+      "won"
+    ],
+    "correctIndex": 0,
+    "explanation": "When two singular nouns together express one single idea or entity, they take a singular verb ('wins').",
+    "difficulty": "easy"
+  },
+  {
+    "id": "eng_84",
+    "subject": "English 2nd Paper",
+    "chapter": "Subject-Verb Agreement",
+    "question": "The jury _____ divided in their opinions.",
+    "options": [
+      "were",
+      "was",
+      "is",
+      "has been"
+    ],
+    "correctIndex": 0,
+    "explanation": "When a collective noun functions with individual differences in mind ('in their opinions'), it takes a plural verb.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "eng_85",
+    "subject": "English 2nd Paper",
+    "chapter": "Prepositions",
+    "question": "He is addicted _____ gambling.",
+    "options": [
+      "to",
+      "for",
+      "with",
+      "at"
+    ],
+    "correctIndex": 0,
+    "explanation": "The adjective 'addicted' takes the appropriate preposition 'to' followed by a noun or gerund.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "eng_86",
+    "subject": "English 2nd Paper",
+    "chapter": "Prepositions",
+    "question": "The man died _____ cholera.",
+    "options": [
+      "of",
+      "from",
+      "by",
+      "for"
+    ],
+    "correctIndex": 0,
+    "explanation": "Dying of a specific disease takes the preposition 'of' (die of disease, die from overwork, die by poison).",
+    "difficulty": "medium"
+  },
+  {
+    "id": "eng_87",
+    "subject": "English 2nd Paper",
+    "chapter": "Prepositions",
+    "question": "She is proficient _____ English grammar.",
+    "options": [
+      "in",
+      "at",
+      "with",
+      "on"
+    ],
+    "correctIndex": 0,
+    "explanation": "Appropriate preposition: 'proficient in' a subject or language, 'good at' an activity.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "eng_88",
+    "subject": "English 2nd Paper",
+    "chapter": "Voice Change",
+    "question": "Change into Passive: 'I know him.'",
+    "options": [
+      "He is known to me.",
+      "He is known by me.",
+      "He was known to me.",
+      "He is knew to me."
+    ],
+    "correctIndex": 0,
+    "explanation": "The verb 'know' takes the preposition 'to' instead of 'by' in the passive voice ('known to me').",
+    "difficulty": "medium"
+  },
+  {
+    "id": "eng_89",
+    "subject": "English 2nd Paper",
+    "chapter": "Voice Change",
+    "question": "Change into Passive: 'Do the work.'",
+    "options": [
+      "Let the work be done.",
+      "Let do the work.",
+      "The work should do.",
+      "Work is done by you."
+    ],
+    "correctIndex": 0,
+    "explanation": "Imperative sentences starting with a verb are converted using: Let + Object + be + past participle.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "eng_90",
+    "subject": "English 2nd Paper",
+    "chapter": "Voice Change",
+    "question": "Change into Passive: 'Who called you?'",
+    "options": [
+      "By whom were you called?",
+      "Who were you called by?",
+      "By who was you called?",
+      "Whom did call you?"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Who' in interrogative active voice becomes 'By whom' followed by auxiliary verb + object + V3.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "eng_91",
+    "subject": "English 2nd Paper",
+    "chapter": "Narration",
+    "question": "He said, 'I am unwell.' Change into indirect speech.",
+    "options": [
+      "He said that he was unwell.",
+      "He said that he is unwell.",
+      "He told that he had been unwell.",
+      "He asked if he was unwell."
+    ],
+    "correctIndex": 0,
+    "explanation": "Reporting verb in past tense changes present tense to corresponding past tense ('am' becomes 'was').",
+    "difficulty": "easy"
+  },
+  {
+    "id": "eng_92",
+    "subject": "English 2nd Paper",
+    "chapter": "Narration",
+    "question": "She said to me, 'What is your name?'",
+    "options": [
+      "She asked me what my name was.",
+      "She asked me what was my name.",
+      "She told me what my name is.",
+      "She asked that what my name was."
+    ],
+    "correctIndex": 0,
+    "explanation": "In indirect WH-questions, the inverted word order becomes affirmative: subject ('my name') + verb ('was').",
+    "difficulty": "medium"
+  },
+  {
+    "id": "eng_93",
+    "subject": "English 2nd Paper",
+    "chapter": "Tag Questions",
+    "question": "Let's go for a walk, _____?",
+    "options": [
+      "shall we",
+      "will you",
+      "don't we",
+      "can we"
+    ],
+    "correctIndex": 0,
+    "explanation": "Proposals starting with 'Let's' or 'Let us' always take the tag question 'shall we?'.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "eng_94",
+    "subject": "English 2nd Paper",
+    "chapter": "Tag Questions",
+    "question": "Barking dogs seldom bite, _____?",
+    "options": [
+      "do they",
+      "don't they",
+      "does it",
+      "didn't they"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Seldom' is negative in meaning, so the tag question must be positive ('do they?').",
+    "difficulty": "medium"
+  },
+  {
+    "id": "eng_95",
+    "subject": "English 2nd Paper",
+    "chapter": "Tag Questions",
+    "question": "Everybody likes flowers, _____?",
+    "options": [
+      "don't they",
+      "doesn't he",
+      "do they",
+      "aren't they"
+    ],
+    "correctIndex": 0,
+    "explanation": "Indefinite pronouns like 'everybody' or 'everyone' take plural pronoun 'they', so the auxiliary verb becomes 'don't they?'.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "eng_96",
+    "subject": "English 2nd Paper",
+    "chapter": "Conditionals",
+    "question": "If he runs fast, he _____ the train.",
+    "options": [
+      "will catch",
+      "caught",
+      "would catch",
+      "catches"
+    ],
+    "correctIndex": 0,
+    "explanation": "First conditional rule: If + Present Indefinite, Future Indefinite (Subject + will + V1).",
+    "difficulty": "easy"
+  },
+  {
+    "id": "eng_97",
+    "subject": "English 2nd Paper",
+    "chapter": "Conditionals",
+    "question": "If I were a king, I _____ the poor.",
+    "options": [
+      "would help",
+      "will help",
+      "had helped",
+      "helped"
+    ],
+    "correctIndex": 0,
+    "explanation": "Second conditional for hypothetical or unreal present states: If + Subject + were/past, Subject + would + V1.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "eng_98",
+    "subject": "English 2nd Paper",
+    "chapter": "Conditionals",
+    "question": "Had I seen him, I _____ the message.",
+    "options": [
+      "would have given",
+      "would give",
+      "will give",
+      "gave"
+    ],
+    "correctIndex": 0,
+    "explanation": "Third conditional inversion: Had + Subject + V3 requires Subject + would have + V3 in the principal clause.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "eng_99",
+    "subject": "English 2nd Paper",
+    "chapter": "Transformation",
+    "question": "Transform into Negative: 'Only Allah can help us.'",
+    "options": [
+      "None but Allah can help us.",
+      "Nothing but Allah can help us.",
+      "Not only Allah can help us.",
+      "Nobody but Allah can help us."
+    ],
+    "correctIndex": 0,
+    "explanation": "'Only' referring to a person or Creator changes into 'None but' in negative sentences.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "eng_100",
+    "subject": "English 2nd Paper",
+    "chapter": "Transformation",
+    "question": "Transform into Complex: 'I saw a flying bird.'",
+    "options": [
+      "I saw a bird which was flying.",
+      "I saw a bird and it was flying.",
+      "A flying bird was seen by me.",
+      "Seeing a bird, it was flying."
+    ],
+    "correctIndex": 0,
+    "explanation": "Simple participial adjectives are expanded into an adjective clause ('which was flying') for complex sentences.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "eng_101",
+    "subject": "English 2nd Paper",
+    "chapter": "Transformation",
+    "question": "Transform into Superlative: 'No other boy in the class is as tall as Fahim.'",
+    "options": [
+      "Fahim is the tallest boy in the class.",
+      "Fahim is taller than any other boy.",
+      "Fahim is very tall boy.",
+      "Fahim is one of the tallest boy."
+    ],
+    "correctIndex": 0,
+    "explanation": "Positive with 'No other' converts to Superlative with 'the + superlative degree' (the tallest boy).",
+    "difficulty": "easy"
+  },
+  {
+    "id": "eng_102",
+    "subject": "English 2nd Paper",
+    "chapter": "Connectors & Modifiers",
+    "question": "He worked hard _____ he might pass the examination.",
+    "options": [
+      "so that",
+      "lest",
+      "in case",
+      "unless"
+    ],
+    "correctIndex": 0,
+    "explanation": "'So that' denotes purpose and is followed by subject + may/might + base form of the verb.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "eng_103",
+    "subject": "English 2nd Paper",
+    "chapter": "Connectors & Modifiers",
+    "question": "Walk fast lest you _____ miss the train.",
+    "options": [
+      "should",
+      "would",
+      "might",
+      "will"
+    ],
+    "correctIndex": 0,
+    "explanation": "The conjunction 'lest' ('নতুবা বা পাছে ভয় হয় যে') is strictly followed by subject + 'should' + V1.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "eng_104",
+    "subject": "English 2nd Paper",
+    "chapter": "Articles",
+    "question": "He is _____ European gentleman.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "correctIndex": 0,
+    "explanation": "Even though 'European' begins with vowel 'E', it is pronounced with the consonant sound 'yu' (/juː/), so it takes article 'a'.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_105",
+    "subject": "সাধারণ গণিত",
+    "chapter": "বাস্তব সংখ্যা",
+    "question": "কোনটি অমূলদ সংখ্যা?",
+    "options": [
+      "√2",
+      "√9",
+      "0.25",
+      "3/4"
+    ],
+    "correctIndex": 0,
+    "explanation": "যে সংখ্যাকে দুইটি পূর্ণসংখ্যার অনুপাতে (p/q) প্রকাশ করা যায় না তাকে অমূলদ সংখ্যা বলে। √2 এর দশমিক মান অসীম অনাবৃত।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_106",
+    "subject": "সাধারণ গণিত",
+    "chapter": "বাস্তব সংখ্যা",
+    "question": "০.৩̇ (৩ এর উপর পৌনঃপুনিক) এর সাধারণ ভগ্নাংশ কোনটি?",
+    "options": [
+      "১/৩",
+      "৩/১০",
+      "১/৯",
+      "৩/৯৯"
+    ],
+    "correctIndex": 0,
+    "explanation": "০.৩̇ = ৩/৯ = ১/৩। পৌনঃপুনিক চিহ্নের জন্য নিচে একটি ৯ বসে।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_107",
+    "subject": "সাধারণ গণিত",
+    "chapter": "সেট ও ফাংশন",
+    "question": "A = {1, 2, 3} সেটের উপসেট (Subset) সংখ্যা কতটি?",
+    "options": [
+      "8টি",
+      "6টি",
+      "9টি",
+      "16টি"
+    ],
+    "correctIndex": 0,
+    "explanation": "কোনো সেটের উপাদান সংখ্যা n হলে তার উপসেট সংখ্যা 2^n। এখানে n = 3, সুতরাং 2^3 = 8 টি।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_108",
+    "subject": "সাধারণ গণিত",
+    "chapter": "সেট ও ফাংশন",
+    "question": "A = {2, 3}, B = {3, 4} হলে A ∩ B = কত?",
+    "options": [
+      "{3}",
+      "{2, 3, 4}",
+      "∅",
+      "{2, 4}"
+    ],
+    "correctIndex": 0,
+    "explanation": "ছেদ সেট বা Intersection (∩) হলো উভয় সেটের সাধারণ বা কমন উপাদান। এখানে কমন উপাদান কেবল 3।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_109",
+    "subject": "সাধারণ গণিত",
+    "chapter": "বীজগাণিতিক রাশি",
+    "question": "a + b = 5 এবং a - b = 3 হলে, 4ab এর মান কত?",
+    "options": [
+      "16",
+      "24",
+      "8",
+      "34"
+    ],
+    "correctIndex": 0,
+    "explanation": "আমরা জানি, 4ab = (a + b)^2 - (a - b)^2 = 5^2 - 3^2 = 25 - 9 = 16।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_110",
+    "subject": "সাধারণ গণিত",
+    "chapter": "বীজগাণিতিক রাশি",
+    "question": "x + 1/x = 2 হলে, x^3 + 1/x^3 এর মান কত?",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "correctIndex": 0,
+    "explanation": "সূত্র: (x + 1/x)^3 - 3*x*(1/x)*(x + 1/x) = 2^3 - 3*1*2 = 8 - 6 = 2।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_111",
+    "subject": "সাধারণ গণিত",
+    "chapter": "বীজগাণিতিক রাশি",
+    "question": "x^2 - 5x + 6 এর উৎপাদক কোনটি?",
+    "options": [
+      "(x - 2)(x - 3)",
+      "(x + 2)(x + 3)",
+      "(x - 1)(x - 6)",
+      "(x + 1)(x - 6)"
+    ],
+    "correctIndex": 0,
+    "explanation": "মিডল টার্ম ব্রেক: x^2 - 3x - 2x + 6 = x(x - 3) - 2(x - 3) = (x - 2)(x - 3)।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_112",
+    "subject": "সাধারণ গণিত",
+    "chapter": "সূচক ও লগারিদম",
+    "question": "log2(8) এর মান কত?",
+    "options": [
+      "3",
+      "4",
+      "2",
+      "1"
+    ],
+    "correctIndex": 0,
+    "explanation": "log2(8) = log2(2^3) = 3 * log2(2) = 3 * 1 = 3।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_113",
+    "subject": "সাধারণ গণিত",
+    "chapter": "সূচক ও লগারিদম",
+    "question": "যেকোনো অশূন্য সংখ্যা a এর জন্য a^0 এর মান কত?",
+    "options": [
+      "1",
+      "0",
+      "a",
+      "অসংজ্ঞায়িত"
+    ],
+    "correctIndex": 0,
+    "explanation": "সূচকের মৌলিক নিয়ম অনুযায়ী, যেকোনো অশূন্য বাস্তব সংখ্যার পাওয়ার বা ঘাত শূন্য হলে তার মান 1 হয় (a^0 = 1, যেখানে a ≠ 0)।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_114",
+    "subject": "সাধারণ গণিত",
+    "chapter": "এক চলক সমীকরণ",
+    "question": "2x + 6 = 14 হলে x এর মান কত?",
+    "options": [
+      "4",
+      "5",
+      "3",
+      "8"
+    ],
+    "correctIndex": 0,
+    "explanation": "2x = 14 - 6 = 8 => x = 8 / 2 = 4।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_115",
+    "subject": "সাধারণ গণিত",
+    "chapter": "জ্যামিতি",
+    "question": "ত্রিভুজের তিন কোণের সমষ্টি কত ডিগ্রি?",
+    "options": [
+      "১৮০°",
+      "৩৬০°",
+      "৯০°",
+      "২৭০°"
+    ],
+    "correctIndex": 0,
+    "explanation": "ইউক্লিডীয় সমতল জ্যামিতি অনুসারে যেকোনো ত্রিভুজের তিনটি অন্তঃস্থ কোণের সমষ্টি দুই সমকোণ বা ১৮০ ডিগ্রি।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_116",
+    "subject": "সাধারণ গণিত",
+    "chapter": "জ্যামিতি",
+    "question": "সমকোণী ত্রিভুজের বৃহত্তম বাহুকে কী বলে?",
+    "options": [
+      "অতিভুজ",
+      "ভূমি",
+      "লম্ব",
+      "মধ্যমা"
+    ],
+    "correctIndex": 0,
+    "explanation": "সমকোণী ত্রিভুজে সমকোণের বিপরীত বাহু সবচেয়ে বড় হয় এবং একে অতিভুজ (Hypotenuse) বলা হয়।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_117",
+    "subject": "সাধারণ গণিত",
+    "chapter": "বৃত্ত",
+    "question": "অর্ধবৃত্তস্থ কোণ সর্বদা কেমন কোণ হয়?",
+    "options": [
+      "এক সমকোণ (৯০°)",
+      "সূক্ষ্মকোণ",
+      "স্থূলকোণ",
+      "প্রবৃদ্ধকোণ"
+    ],
+    "correctIndex": 0,
+    "explanation": "বৃত্তের উপপাদ্য অনুযায়ী, অর্ধবৃত্তস্থ কোণের পরিমাপ সর্বদা ৯০ ডিগ্রি বা এক সমকোণ হয়।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_118",
+    "subject": "সাধারণ গণিত",
+    "chapter": "বৃত্ত",
+    "question": "বৃত্তের ব্যাস ও ব্যাসার্ধের অনুপাত কত?",
+    "options": [
+      "২ : ১",
+      "১ : ২",
+      "π : ১",
+      "৪ : ১"
+    ],
+    "correctIndex": 0,
+    "explanation": "ব্যাস হলো ব্যাসার্ধের দ্বিগুণ (d = 2r), তাই ব্যাস : ব্যাসার্ধ = 2r : r = 2 : 1।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_119",
+    "subject": "সাধারণ গণিত",
+    "chapter": "ত্রিকোণমিতি",
+    "question": "sin 30° এর মান কত?",
+    "options": [
+      "১/২",
+      "√৩/২",
+      "১/√২",
+      "১"
+    ],
+    "correctIndex": 0,
+    "explanation": "ত্রিকোণমিতিক আদর্শ মান তালিকা অনুসারে sin 30° = 1/2।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_120",
+    "subject": "সাধারণ গণিত",
+    "chapter": "ত্রিকোণমিতি",
+    "question": "sin^2 θ + cos^2 θ এর মান কত?",
+    "options": [
+      "1",
+      "0",
+      "2",
+      "tan^2 θ"
+    ],
+    "correctIndex": 0,
+    "explanation": "পিথাগোরাসের উপপাদ্য থেকে প্রাপ্ত মৌলিক ত্রিকোণমিতিক অভেদ হলো sin^2 θ + cos^2 θ = 1।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_121",
+    "subject": "সাধারণ গণিত",
+    "chapter": "ত্রিকোণমিতি",
+    "question": "tan 45° এর মান কত?",
+    "options": [
+      "1",
+      "0",
+      "√3",
+      "1/√3"
+    ],
+    "correctIndex": 0,
+    "explanation": "সমকোণী সমদ্বিবাহু ত্রিভুজে লম্ব ও ভূমির দৈর্ঘ্য সমান হওয়ায় tan 45° = লম্ব/ভূমি = 1।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_122",
+    "subject": "সাধারণ গণিত",
+    "chapter": "দূরত্ব ও উচ্চতা",
+    "question": "ভূ-রেখার সমান্তরাল রেখার উপরে যে কোণ উৎপন্ন হয় তাকে কী বলে?",
+    "options": [
+      "উন্নতি কোণ",
+      "অবনতি কোণ",
+      "পূরক কোণ",
+      "সম্পূরক কোণ"
+    ],
+    "correctIndex": 0,
+    "explanation": "ভূতলের উপরের কোনো বিন্দু ভূ-রেখার সাথে যে কোণ উৎপন্ন করে তাকে উন্নতি কোণ (Angle of Elevation) বলে।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_123",
+    "subject": "সাধারণ গণিত",
+    "chapter": "সসীম ধারা",
+    "question": "1 + 3 + 5 + 7 + ... সমান্তর ধারাটির প্রথম n সংখ্যক পদের যোগফল কত?",
+    "options": [
+      "n^2",
+      "n(n + 1)/2",
+      "n(n + 1)",
+      "2n - 1"
+    ],
+    "correctIndex": 0,
+    "explanation": "প্রথম n সংখ্যক ক্রমিক বিজোড় স্বাভাবিক সংখ্যার সমষ্টি সর্বদা n^2 এর সমান হয়।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_124",
+    "subject": "সাধারণ গণিত",
+    "chapter": "সসীম ধারা",
+    "question": "2, 4, 8, 16, ... গুণোত্তর ধারাটির সাধারণ অনুপাত (r) কত?",
+    "options": [
+      "2",
+      "4",
+      "8",
+      "1/2"
+    ],
+    "correctIndex": 0,
+    "explanation": "গুণোত্তর ধারায় যেকোনো পদকে তার পূর্ববর্তী পদ দিয়ে ভাগ করলে সাধারণ অনুপাত পাওয়া যায়: 4/2 = 2।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_125",
+    "subject": "সাধারণ গণিত",
+    "chapter": "পরিমিতি",
+    "question": "একটি বর্গের এক বাহুর দৈর্ঘ্য 4 সে.মি. হলে এর ক্ষেত্রফল কত?",
+    "options": [
+      "16 বর্গ সে.মি.",
+      "8 বর্গ সে.মি.",
+      "12 বর্গ সে.মি.",
+      "24 বর্গ সে.মি."
+    ],
+    "correctIndex": 0,
+    "explanation": "বর্গের ক্ষেত্রফল = (বাহুর দৈর্ঘ্য)^2 = 4^2 = 16 বর্গ সেন্টিমিটার।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_126",
+    "subject": "সাধারণ গণিত",
+    "chapter": "পরিমিতি",
+    "question": "বৃত্তের পরিধির সূত্র কোনটি?",
+    "options": [
+      "2πr",
+      "πr^2",
+      "4/3 πr^3",
+      "πr"
+    ],
+    "correctIndex": 0,
+    "explanation": "বৃত্তের ব্যাসার্ধ r হলে তার মোট পরিধি বা বাউন্ডারির দৈর্ঘ্য 2πr।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_127",
+    "subject": "সাধারণ গণিত",
+    "chapter": "পরিমিতি",
+    "question": "একটি আয়তক্ষেত্রের দৈর্ঘ্য 6 মিটার ও প্রস্থ 4 মিটার হলে এর পরিসীমা কত?",
+    "options": [
+      "20 মিটার",
+      "24 মিটার",
+      "10 মিটার",
+      "48 মিটার"
+    ],
+    "correctIndex": 0,
+    "explanation": "পরিসীমা = ২ × (দৈর্ঘ্য + প্রস্থ) = ২ × (৬ + ৪) = ২ × ১০ = ২০ মিটার।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_128",
+    "subject": "সাধারণ গণিত",
+    "chapter": "পরিসংখ্যান",
+    "question": "উপাত্তের কেন্দ্রীয় প্রবণতার পরিমাপ কয়টি?",
+    "options": [
+      "৩টি",
+      "৪টি",
+      "২টি",
+      "৫টি"
+    ],
+    "correctIndex": 0,
+    "explanation": "কেন্দ্রীয় প্রবণতার প্রধান ৩টি পরিমাপ হলো: গাণিতিক গড় (Mean), মধ্যক (Median) ও প্রচুরক (Mode)।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_129",
+    "subject": "সাধারণ গণিত",
+    "chapter": "পরিসংখ্যান",
+    "question": "2, 5, 8, 5, 9, 5, 3 উপাত্তের প্রচুরক (Mode) কোনটি?",
+    "options": [
+      "5",
+      "8",
+      "2",
+      "9"
+    ],
+    "correctIndex": 0,
+    "explanation": "প্রচুরক হলো উপাত্তে সবচেয়ে বেশিবার আসা মান। এখানে 5 সর্বাধিক ৩ বার এসেছে, তাই প্রচুরক 5।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_130",
+    "subject": "সাধারণ গণিত",
+    "chapter": "পরিসংখ্যান",
+    "question": "শ্রেণি ব্যবধান 30 - 39 হলে এর শ্রেণি ব্যাপ্তি (Class interval) কত?",
+    "options": [
+      "10",
+      "9",
+      "8",
+      "11"
+    ],
+    "correctIndex": 0,
+    "explanation": "শ্রেণি ব্যাপ্তি = ঊর্ধ্বসীমা - নিম্নসীমা + ১ = ৩৯ - ৩০ + ১ = ১০।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_131",
+    "subject": "উচ্চতর গণিত",
+    "chapter": "সেট ও ফাংশন",
+    "question": "f(x) = √(x - 3) ফাংশনটির ডোমেন (Domain) কোনটি?",
+    "options": [
+      "[3, ∞)",
+      "(3, ∞)",
+      "(-∞, 3]",
+      "R"
+    ],
+    "correctIndex": 0,
+    "explanation": "বর্গমূলের ভিতরের মান ঋণাত্মক হতে পারে না। তাই x - 3 ≥ 0 => x ≥ 3, অর্থাৎ ডোমেন [3, ∞)।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_132",
+    "subject": "উচ্চতর গণিত",
+    "chapter": "সেট ও ফাংশন",
+    "question": "কোনো অন্বয়ের ভিন্ন ভিন্ন ক্রোমজোড়ের প্রথম উপাদানগুলো নিয়ে গঠিত সেটকে কী বলে?",
+    "options": [
+      "ডোমেন",
+      "রেঞ্জ",
+      "কোর্ডোমেন",
+      "প্রতিবিম্ব"
+    ],
+    "correctIndex": 0,
+    "explanation": "অন্বয়ের ক্রোমজোড়গুলোর প্রথম উপাদানের সেট হলো ডোমেন এবং দ্বিতীয় উপাদানের সেট হলো রেঞ্জ।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_133",
+    "subject": "উচ্চতর গণিত",
+    "chapter": "বীজগণিতীয় রাশি",
+    "question": "P(x) কে (x - a) দ্বারা ভাগ করলে ভাগশেষ কত হবে?",
+    "options": [
+      "P(a)",
+      "P(-a)",
+      "0",
+      "P(0)"
+    ],
+    "correctIndex": 0,
+    "explanation": "ভাগশেষ উপপাদ্য (Remainder Theorem) অনুসারে P(x) বহুপদীকে (x - a) দিয়ে ভাগ করলে ভাগশেষ P(a) হয়।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_134",
+    "subject": "উচ্চতর গণিত",
+    "chapter": "বীজগণিতীয় রাশি",
+    "question": "x^3 - 7x + 6 বহুপদীর একটি উৎপাদক কোনটি?",
+    "options": [
+      "(x - 1)",
+      "(x + 1)",
+      "(x - 4)",
+      "(x + 3)"
+    ],
+    "correctIndex": 0,
+    "explanation": "x = 1 বসালে: 1^3 - 7(1) + 6 = 1 - 7 + 6 = 0, সুতরাং (x - 1) একটি নিশ্চিত উৎপাদক।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_135",
+    "subject": "উচ্চতর গণিত",
+    "chapter": "জ্যামিতি",
+    "question": "ত্রিভুজের মধ্যমাদ্বয় বা মধ্যমাত্রয় যে বিন্দুতে মিলিত হয় তাকে কী বলে?",
+    "options": [
+      "ভরকেন্দ্র (Centroid)",
+      "পরিকেন্দ্র",
+      "অন্তঃকেন্দ্র",
+      "লম্ববিন্দু"
+    ],
+    "correctIndex": 0,
+    "explanation": "ত্রিভুজের তিনটি মধ্যমার ছেদবিন্দুকে ভরকেন্দ্র বলে। ভরকেন্দ্র প্রতিটি মধ্যমাকে ২:১ অনুপাতে বিভক্ত করে।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_136",
+    "subject": "উচ্চতর গণিত",
+    "chapter": "জ্যামিতি",
+    "question": "অ্যাপোলোনিয়াসের উপপাদ্য ত্রিভুজের কোন উপাদান সম্পর্কিত?",
+    "options": [
+      "বাহু ও মধ্যমা",
+      "উচ্চতা ও কোণ",
+      "ব্যাসার্ধ ও চাপ",
+      "পরিসীমা ও ভরকেন্দ্র"
+    ],
+    "correctIndex": 0,
+    "explanation": "অ্যাপোলোনিয়াসের উপপাদ্য ত্রিভুজের তিন বাহু এবং মধ্যমার মধ্যকার গভীর জ্যামিতিক সম্পর্ক প্রকাশ করে।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_137",
+    "subject": "উচ্চতর গণিত",
+    "chapter": "সমীকরণ",
+    "question": "ax^2 + bx + c = 0 দ্বিঘাত সমীকরণের নিশ্চায়ক (Discriminant) কোনটি?",
+    "options": [
+      "b^2 - 4ac",
+      "b^2 + 4ac",
+      "4ac - b^2",
+      "√(b^2 - 4ac)"
+    ],
+    "correctIndex": 0,
+    "explanation": "দ্বিঘাত সমীকরণের মূলের প্রকৃতি নির্ধারণকারী রাশিকে নিশ্চায়ক বলা হয়, যা D = b^2 - 4ac।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_138",
+    "subject": "উচ্চতর গণিত",
+    "chapter": "সমীকরণ",
+    "question": "নিশ্চায়ক b^2 - 4ac = 0 হলে সমীকরণের মূলদ্বয় কেমন হবে?",
+    "options": [
+      "বাস্তব ও সমান",
+      "অবাস্তব ও অসমান",
+      "বাস্তব ও অসমান",
+      "মূলদ ও অমূলদ"
+    ],
+    "correctIndex": 0,
+    "explanation": "নিশ্চায়ক শূন্য হলে মূল দুটি বাস্তব এবং পরস্পরের সমান হয় (-b/2a)।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_139",
+    "subject": "উচ্চতর গণিত",
+    "chapter": "অসমতা",
+    "question": "যদি -2x < 6 হয়, তবে x এর সঠিক মান কোনটি?",
+    "options": [
+      "x > -3",
+      "x < -3",
+      "x > 3",
+      "x < 3"
+    ],
+    "correctIndex": 0,
+    "explanation": "অসমতার উভয় পক্ষকে ঋণাত্মক সংখ্যা (-2) দ্বারা ভাগ বা গুণ করলে অসমতার চিহ্ন উল্টে যায়। তাই x > -3।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_140",
+    "subject": "উচ্চতর গণিত",
+    "chapter": "দ্বিপদী বিস্তার",
+    "question": "(1 + x)^n এর বিস্তৃতিতে মোট পদের সংখ্যা কতটি?",
+    "options": [
+      "n + 1 টি",
+      "n টি",
+      "2n টি",
+      "n - 1 টি"
+    ],
+    "correctIndex": 0,
+    "explanation": "দ্বিপদী রাশিতে ঘাত n হলে পদের সংখ্যা সর্বদা ঘাতের চেয়ে এক বেশি অর্থাৎ (n + 1) টি হয়।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_141",
+    "subject": "উচ্চতর গণিত",
+    "chapter": "দ্বিপদী বিস্তার",
+    "question": "5C2 এর মান কত?",
+    "options": [
+      "10",
+      "20",
+      "5",
+      "15"
+    ],
+    "correctIndex": 0,
+    "explanation": "5C2 = (5 × 4) / (2 × 1) = 20 / 2 = 10।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_142",
+    "subject": "উচ্চতর গণিত",
+    "chapter": "স্থানাঙ্ক জ্যামিতি",
+    "question": "(2, 3) এবং (5, 7) বিন্দু দুইটির মধ্যবর্তী দূরত্ব কত একক?",
+    "options": [
+      "5",
+      "4",
+      "√7",
+      "25"
+    ],
+    "correctIndex": 0,
+    "explanation": "দূরত্ব d = √[(5-2)^2 + (7-3)^2] = √[3^2 + 4^2] = √[9 + 16] = √25 = 5 একক।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_143",
+    "subject": "উচ্চতর গণিত",
+    "chapter": "স্থানাঙ্ক জ্যামিতি",
+    "question": "(1, 2) এবং (4, 8) বিন্দু সংযোগকারী সরলরেখার ঢাল (Slope) কত?",
+    "options": [
+      "2",
+      "3",
+      "1/2",
+      "6"
+    ],
+    "correctIndex": 0,
+    "explanation": "ঢাল m = (y2 - y1) / (x2 - x1) = (8 - 2) / (4 - 1) = 6 / 3 = 2।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_144",
+    "subject": "উচ্চতর গণিত",
+    "chapter": "স্থানাঙ্ক জ্যামিতি",
+    "question": "x-অক্ষের সমীকরণ কোনটি?",
+    "options": [
+      "y = 0",
+      "x = 0",
+      "y = x",
+      "x + y = 0"
+    ],
+    "correctIndex": 0,
+    "explanation": "x-অক্ষের উপর অবস্থিত প্রতিটি বিন্দুর কোটি বা y-মান সর্বদা শূন্য, তাই সমীকরণ y = 0।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_145",
+    "subject": "উচ্চতর গণিত",
+    "chapter": "ত্রিকোণমিতি",
+    "question": "১ রেডিয়ান কোণ সমান কত ডিগ্রি (প্রায়)?",
+    "options": [
+      "৫৭.৩°",
+      "৬০°",
+      "৪৫°",
+      "৯০°"
+    ],
+    "correctIndex": 0,
+    "explanation": "১ রেডিয়ান = (১৮০ / π)° ≈ ৫৭.২৯৫৭° বা প্রায় ৫৭.৩ ডিগ্রি। রেডিয়ান একটি ধ্রুব কোণ।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_146",
+    "subject": "উচ্চতর গণিত",
+    "chapter": "ত্রিকোণমিতি",
+    "question": "বৃত্তচাপ s, ব্যাসার্ধ r এবং কোণ θ (রেডিয়ানে) এর সম্পর্ক কোনটি?",
+    "options": [
+      "s = rθ",
+      "s = r/θ",
+      "s = 2πrθ",
+      "s = θ/r"
+    ],
+    "correctIndex": 0,
+    "explanation": "কেন্দ্রস্থ কোণ রেডিয়ানে পরিমাপ করা হলে বৃত্তচাপের দৈর্ঘ্য s = rθ হয়।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_147",
+    "subject": "উচ্চতর গণিত",
+    "chapter": "ত্রিকোণমিতি",
+    "question": "sec^2 θ - tan^2 θ এর মান কত?",
+    "options": [
+      "1",
+      "0",
+      "-1",
+      "2"
+    ],
+    "correctIndex": 0,
+    "explanation": "ত্রিকোণমিতিক অভেদ অনুসারে sec^2 θ - tan^2 θ = 1।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_148",
+    "subject": "উচ্চতর গণিত",
+    "chapter": "ভেক্টর",
+    "question": "যে ভেক্টরের মান ১ তাকে কী ভেক্টর বলে?",
+    "options": [
+      "একক ভেক্টর",
+      "শূন্য ভেক্টর",
+      "বিপ্রতীপ ভেক্টর",
+      "স্বাধীন ভেক্টর"
+    ],
+    "correctIndex": 0,
+    "explanation": "একক ভেক্টর (Unit Vector) হলো এমন একটি ভেক্টর যার পরম মান বা দৈর্ঘ্য ঠিক ১ একক।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_149",
+    "subject": "উচ্চতর গণিত",
+    "chapter": "ভেক্টর",
+    "question": "শূন্য ভেক্টরের দিক কোনটি?",
+    "options": [
+      "নির্দিষ্ট কোনো দিক নেই",
+      "ধনাত্মক দিকে",
+      "ঊর্ধ্বমুখী",
+      "ঋণাত্মক দিকে"
+    ],
+    "correctIndex": 0,
+    "explanation": "যে ভেক্টরের মান শূন্য তার পাদবিন্দু ও শীর্ষবিন্দু একই, তাই এর কোনো নির্দিষ্ট দিক নেই।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_150",
+    "subject": "উচ্চতর গণিত",
+    "chapter": "ভেক্টর",
+    "question": "ভেক্টরের ক্ষেত্রে ত্রিভুজ সূত্র সমর্থন করে কোনটি?",
+    "options": [
+      "AB + BC = AC",
+      "AB - BC = AC",
+      "AC + BC = AB",
+      "AB + AC = BC"
+    ],
+    "correctIndex": 0,
+    "explanation": "ত্রিভুজ বিধি অনুসারে দুটি ভেক্টর ক্রমানুসারে নির্দেশিত হলে তৃতীয় বিপরীত বাহুটি তাদের লব্ধি প্রকাশ করে (AB + BC = AC)।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_151",
+    "subject": "উচ্চতর গণিত",
+    "chapter": "সম্ভাবনা",
+    "question": "একটি নিরপেক্ষ ছক্কা একবার নিক্ষেপ করলে বিজোড় সংখ্যা (1, 3, 5) ওঠার সম্ভাবনা কত?",
+    "options": [
+      "১/২",
+      "১/৬",
+      "১/৩",
+      "২/৩"
+    ],
+    "correctIndex": 0,
+    "explanation": "মোট নমুনা বিন্দু ৬টি, অনুকূল ফলাফল ৩টি (১, ৩, ৫)। অতএব সম্ভাবনা = ৩/৬ = ১/২।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_152",
+    "subject": "উচ্চতর গণিত",
+    "chapter": "সম্ভাবনা",
+    "question": "যেকোনো নিশ্চিত ঘটনার সম্ভাবনা (Probability) কত?",
+    "options": [
+      "1",
+      "0",
+      "0.5",
+      "অসীম"
+    ],
+    "correctIndex": 0,
+    "explanation": "যে ঘটনা ঘটা সম্পূর্ণ নিশ্চিত তার সম্ভাবনার মান ১, এবং অসম্ভব ঘটনার সম্ভাবনা ০।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_153",
+    "subject": "উচ্চতর গণিত",
+    "chapter": "সম্ভাবনা",
+    "question": "একটি মুদ্রা নিক্ষেপ করলে 'Head' ওঠার সম্ভাবনা কত?",
+    "options": [
+      "১/২",
+      "১/৪",
+      "১",
+      "০"
+    ],
+    "correctIndex": 0,
+    "explanation": "একটি মুদ্রার মোট দুটি পিঠ (Head ও Tail)। Head ওঠার অনুকূল ফল ১, তাই সম্ভাবনা ১/২।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_154",
+    "subject": "উচ্চতর গণিত",
+    "chapter": "ঘন জ্যামিতি",
+    "question": "একটি সমবৃত্তভূমিক কোণকের ভূমির ব্যাসার্ধ r এবং উচ্চতা h হলে আয়তন কত?",
+    "options": [
+      "1/3 πr^2 h",
+      "πr^2 h",
+      "4/3 πr^3",
+      "2πrh"
+    ],
+    "correctIndex": 0,
+    "explanation": "কোণকের আয়তন একই ভূমি ও উচ্চতাবিশিষ্ট বেলন বা সিলিন্ডারের আয়তনের এক-তৃতীয়াংশ, অর্থাৎ 1/3 πr^2 h।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_155",
+    "subject": "উচ্চতর গণিত",
+    "chapter": "ঘন জ্যামিতি",
+    "question": "একটি ঘনকের এক ধারের দৈর্ঘ্য a হলে তার কর্ণের দৈর্ঘ্য কত?",
+    "options": [
+      "a√3",
+      "a√2",
+      "3a",
+      "a^3"
+    ],
+    "correctIndex": 0,
+    "explanation": "ঘনকের কর্ণের দৈর্ঘ্য সূত্র: √(a^2 + a^2 + a^2) = √(3a^2) = a√3।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_156",
+    "subject": "উচ্চতর গণিত",
+    "chapter": "অসীম ধারা",
+    "question": "|r| < 1 হলে অসীম গুণোত্তর ধারার সমষ্টির সূত্র কোনটি?",
+    "options": [
+      "S = a / (1 - r)",
+      "S = a(1 - r^n) / (1 - r)",
+      "S = n/2(2a + (n-1)d)",
+      "S = a / (r - 1)"
+    ],
+    "correctIndex": 0,
+    "explanation": "সাধারণ অনুপাত r এর মান -1 < r < 1 হলে ধারাটি অভিসারী হয় এবং অসীমতক সমষ্টি S∞ = a / (1 - r)।",
+    "difficulty": "hard"
+  },
+  {
+    "id": "subsubsub_157",
+    "subject": "পদার্থবিজ্ঞান",
+    "chapter": "ভৌত রাশি ও পরিমাপ",
+    "question": "আন্তর্জাতিক পদ্ধতিতে (SI) তাপমাত্রার একক কী?",
+    "options": [
+      "কেলভিন (K)",
+      "সেলসিয়াস (°C)",
+      "ফারেনহাইট (°F)",
+      "জুল (J)"
+    ],
+    "correctIndex": 0,
+    "explanation": "তাপমাত্রার এসআই মৌলিক একক কেলভিন (Kelvin)। সেলসিয়াস বা ফারেনহাইট প্রচলিত স্কেল হলেও এসআই একক নয়।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_158",
+    "subject": "পদার্থবিজ্ঞান",
+    "chapter": "ভৌত রাশি ও পরিমাপ",
+    "question": "কোনটি ভেক্টর রাশি?",
+    "options": [
+      "বেগ",
+      "দ্রুতি",
+      "দূরত্ব",
+      "কাজ"
+    ],
+    "correctIndex": 0,
+    "explanation": "বেগের মান এবং দিক উভয়ই নির্দিষ্ট থাকে, তাই এটি ভেক্টর রাশি। কাজ, দ্রুতি ও দূরত্ব হলো স্কেলার রাশি।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_159",
+    "subject": "পদার্থবিজ্ঞান",
+    "chapter": "ভৌত রাশি ও পরিমাপ",
+    "question": "স্লাইড ক্যালিপার্সের ভার্নিয়ার স্কেলের ক্ষুদ্রতম ভাগের পরিমাপকে কী বলে?",
+    "options": [
+      "ভার্নিয়ার ধ্রুবক (VC)",
+      "পিচ",
+      "লঘিষ্ঠ গণন",
+      "যান্ত্রিক ত্রুটি"
+    ],
+    "correctIndex": 0,
+    "explanation": "প্রধান স্কেলের ক্ষুদ্রতম এক ভাগ এবং ভার্নিয়ার স্কেলের এক ভাগের পার্থক্যকে ভার্নিয়ার ধ্রুবক (Vernier Constant) বলে।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_160",
+    "subject": "পদার্থবিজ্ঞান",
+    "chapter": "গতি",
+    "question": "সমত্বরণে চলমান বস্তুর ক্ষেত্রে গতির সমীকরণ কোনটি সঠিক?",
+    "options": [
+      "v^2 = u^2 + 2as",
+      "s = vt^2",
+      "v = u - at^2",
+      "s = ut + at"
+    ],
+    "correctIndex": 0,
+    "explanation": "সমত্বরণের ক্ষেত্রে সঠিক মৌলিক সূত্রটি হলো v^2 = u^2 + 2as, যেখানে u আদিবেগ, a ত্বরণ ও s অতিক্রান্ত দূরত্ব।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_161",
+    "subject": "পদার্থবিজ্ঞান",
+    "chapter": "গতি",
+    "question": "পরন্ত বস্তুর ক্ষেত্রে গ্যালিলিওর দ্বিতীয় সূত্র কোনটি নির্দেশ করে?",
+    "options": [
+      "বেগ সময়ের সমানুপাতিক (v ∝ t)",
+      "দূরত্ব সময়ের সমানুপাতিক",
+      "ত্বরণ সময়ের বর্গের সমানুপাতিক",
+      "বেগ ভরের সমানুপাতিক"
+    ],
+    "correctIndex": 0,
+    "explanation": "স্থির অবস্থান থেকে বিনা বাধায় মুক্তভাবে পড়ন্ত বস্তুর নির্দিষ্ট সময়ে প্রাপ্ত বেগ ওই সময়ের সমানুপাতিক (v ∝ t)।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_162",
+    "subject": "পদার্থবিজ্ঞান",
+    "chapter": "গতি",
+    "question": "কোনো বস্তুর বেগ বৃদ্ধির হারকে কী বলে?",
+    "options": [
+      "ত্বরণ",
+      "মন্দন",
+      "বেগ",
+      "ভরবেগ"
+    ],
+    "correctIndex": 0,
+    "explanation": "সময়ের সাথে বস্তুর অসম বেগের বৃদ্ধির হারকে ত্বরণ (Acceleration) বলে। একক m/s^2।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_163",
+    "subject": "পদার্থবিজ্ঞান",
+    "chapter": "বল",
+    "question": "বলের একক কী?",
+    "options": [
+      "নিউটন (N)",
+      "প্যাসকেল (Pa)",
+      "জুল (J)",
+      "ওয়াট (W)"
+    ],
+    "correctIndex": 0,
+    "explanation": "আন্তর্জাতিক পদ্ধতিতে বলের একক নিউটন। ১ কেজি ভরের উপর ১ m/s^2 ত্বরণ সৃষ্টিকারী বল হলো ১ নিউটন।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_164",
+    "subject": "পদার্থবিজ্ঞান",
+    "chapter": "বল",
+    "question": "বস্তুর জড়তা কিসের ওপর নির্ভর করে?",
+    "options": [
+      "ভরের ওপর",
+      "বেগের ওপর",
+      "আয়তনের ওপর",
+      "উচ্চতার ওপর"
+    ],
+    "correctIndex": 0,
+    "explanation": "বস্তুর ভরের কারণেই জড়তার সৃষ্টি হয়। ভর বেশি হলে জড়তা বেশি হয়, তাই ভরই হলো জড়তার পরিমাপ।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_165",
+    "subject": "পদার্থবিজ্ঞান",
+    "chapter": "বল",
+    "question": "নিউটনের গতির দ্বিতীয় সূত্র থেকে কিসের পরিমাপ পাওয়া যায়?",
+    "options": [
+      "বলের মান (F = ma)",
+      "বলের সংজ্ঞা",
+      "ক্রিয়া ও প্রতিক্রিয়া",
+      "শক্তি"
+    ],
+    "correctIndex": 0,
+    "explanation": "বস্তুর ভরবেগের পরিবর্তনের হার তার উপর প্রযুক্ত বলের সমানুপাতিক, যা থেকে বলের গাণিতিক রূপ F = ma প্রতিপাদিত হয়।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_166",
+    "subject": "পদার্থবিজ্ঞান",
+    "chapter": "কাজ, ক্ষমতা ও শক্তি",
+    "question": "কাজের একক কোনটি?",
+    "options": [
+      "জুল (J)",
+      "নিউটন",
+      "ওয়াট",
+      "প্যাসকেল"
+    ],
+    "correctIndex": 0,
+    "explanation": "বল ও বলের দিকে সরণের গুণফলকে কাজ বলে। ১ নিউটন বলের জন্য ১ মিটার সরণ হলে ১ জুল কাজ সম্পন্ন হয়।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_167",
+    "subject": "পদার্থবিজ্ঞান",
+    "chapter": "কাজ, ক্ষমতা ও শক্তি",
+    "question": "m ভরের কোনো বস্তু h উচ্চতায় উঠালে তার বিভব শক্তি (Ep) কত?",
+    "options": [
+      "mgh",
+      "1/2 mv^2",
+      "mgh^2",
+      "mg/h"
+    ],
+    "correctIndex": 0,
+    "explanation": "অভিকর্ষ বলের বিরুদ্ধে কোনো বস্তুকে h উচ্চতায় তুলতে কৃত কাজই স্থিতিশক্তি বা বিভবশক্তি হিসেবে সঞ্চিত থাকে, Ep = mgh।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_168",
+    "subject": "পদার্থবিজ্ঞান",
+    "chapter": "কাজ, ক্ষমতা ও শক্তি",
+    "question": "গতিশক্তি (Ek) এবং ভরবেগ (p) এর মধ্যে সম্পর্ক কোনটি?",
+    "options": [
+      "Ek = p^2 / 2m",
+      "Ek = 2mp",
+      "Ek = p / 2m",
+      "Ek = m p^2"
+    ],
+    "correctIndex": 0,
+    "explanation": "গতিশক্তি Ek = 1/2 mv^2 = (m^2 v^2)/(2m) = p^2 / 2m। এটি পদার্থবিজ্ঞানের অত্যন্ত গুরুত্বপূর্ণ একটি সম্পর্ক।",
+    "difficulty": "hard"
+  },
+  {
+    "id": "subsubsub_169",
+    "subject": "পদার্থবিজ্ঞান",
+    "chapter": "পদার্থের অবস্থা ও চাপ",
+    "question": "চাপের এসআই একক কোনটি?",
+    "options": [
+      "প্যাসকেল (Pa)",
+      "নিউটন",
+      "জুল",
+      "বার"
+    ],
+    "correctIndex": 0,
+    "explanation": "একক ক্ষেত্রফলের ওপর লম্বভাবে প্রযুক্ত বলকে চাপ বলে (P = F/A)। এর একক N/m^2 বা প্যাসকেল।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_170",
+    "subject": "পদার্থবিজ্ঞান",
+    "chapter": "পদার্থের অবস্থা ও চাপ",
+    "question": "তরলের ভেতর কোনো বিন্দুতে চাপ (P) কিসের ওপর নির্ভর করে?",
+    "options": [
+      "P = hρg",
+      "P = mg",
+      "P = v/t",
+      "P = F × d"
+    ],
+    "correctIndex": 0,
+    "explanation": "তরলের গভীরতা h, তরলের ঘনত্ব ρ এবং অভিকর্ষজ ত্বরণ g হলে তরলের অভ্যন্তরে চাপ P = hρg।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_171",
+    "subject": "পদার্থবিজ্ঞান",
+    "chapter": "পদার্থের অবস্থা ও চাপ",
+    "question": "আর্কিমিডিসের সূত্র অনুসারে প্লবতা কার সমান?",
+    "options": [
+      "বস্তু কর্তৃক অপসারিত তরলের ওজনের সমান",
+      "বস্তুর মোট ওজনের সমান",
+      "তরলের পাত্রের আয়তনের সমান",
+      "বায়ুমণ্ডলীয় চাপের সমান"
+    ],
+    "correctIndex": 0,
+    "explanation": "কোনো বস্তুকে স্থির তরলে নিমজ্জিত করলে বস্তুটি যে ঊর্ধ্বমুখী বল অনুভব করে তা বস্তুর অপসারিত তরলের ওজনের সমান।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_172",
+    "subject": "পদার্থবিজ্ঞান",
+    "chapter": "আলোর প্রতিফলন",
+    "question": "দর্পণে আলোর প্রতিফলনের দ্বিতীয় সূত্র কোনটি?",
+    "options": [
+      "আপতন কোণ = প্রতিফলন কোণ (∠i = ∠r)",
+      "আপতন কোণ > প্রতিফলন কোণ",
+      "প্রতিফলন কোণ সর্বদা ৯০°",
+      "আলো বেঁকে যায়"
+    ],
+    "correctIndex": 0,
+    "explanation": "প্রতিফলনের মৌলিক নিয়ম: আপতন কোণ এবং প্রতিফলন কোণ সর্বদা পরস্পরের সমান হয়।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_173",
+    "subject": "পদার্থবিজ্ঞান",
+    "chapter": "আলোর প্রতিফলন",
+    "question": "সমতল দর্পণে সৃষ্ট প্রতিবিম্বের বৈশিষ্ট্য কোনটি?",
+    "options": [
+      "অবাস্তব ও সোজা",
+      "বাস্তব ও উল্টো",
+      "অত্যন্ত ক্ষুদ্র",
+      "বিবর্ধিত বাস্তব"
+    ],
+    "correctIndex": 0,
+    "explanation": "সমতল দর্পণে আলোর প্রতিফলনে সর্বদা অবাস্তব, সোজা এবং লক্ষ্যবস্তুর সমান আকারের প্রতিবিম্ব গঠিত হয়।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_174",
+    "subject": "পদার্থবিজ্ঞান",
+    "chapter": "আলোর প্রতিসরণ",
+    "question": "আলো হালকা মাধ্যম থেকে ঘন মাধ্যমে প্রবেশ করলে অভিলম্বের দিকে কী ঘটে?",
+    "options": [
+      "অভিলম্বের দিকে বেঁকে যায়",
+      "অভিলম্ব থেকে দূরে সরে যায়",
+      "সোজা চলে যায়",
+      "সম্পূর্ণ প্রতিফলিত হয়"
+    ],
+    "correctIndex": 0,
+    "explanation": "হালকা মাধ্যম থেকে ঘন মাধ্যমে প্রবেশকালে আলোর বেগ কমে যায়, ফলে আলোক রশ্মি অভিলম্বের নিকটবর্তী হয়।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_175",
+    "subject": "পদার্থবিজ্ঞান",
+    "chapter": "আলোর প্রতিসরণ",
+    "question": "পূর্ণ অভ্যন্তরীণ প্রতিফলনের জন্য আলোক রশ্মিকে কোন মাধ্যম থেকে কোন মাধ্যমে যেতে হয়?",
+    "options": [
+      "ঘন মাধ্যম থেকে হালকা মাধ্যমে",
+      "হালকা মাধ্যম থেকে ঘন মাধ্যমে",
+      "শূন্য মাধ্যম থেকে বায়ুতে",
+      "যেকোনো মাধ্যমে"
+    ],
+    "correctIndex": 0,
+    "explanation": "পূর্ণ অভ্যন্তরীণ প্রতিফলনের শর্ত হলো আলোকরশ্মিকে অবশ্যই ঘন মাধ্যম থেকে হালকা মাধ্যমে আপতিত হতে হবে এবং আপতন কোণ সংকট কোণের চেয়ে বড় হতে হবে।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_176",
+    "subject": "পদার্থবিজ্ঞান",
+    "chapter": "চল তড়িৎ",
+    "question": "ওহমের সূত্র অনুসারে তড়িৎ প্রবাহ (I) কার সমানুপাতিক?",
+    "options": [
+      "বিভব পার্থক্যের (V)",
+      "রোধের (R)",
+      "তাপমাত্রার বর্গের",
+      "দৈর্ঘ্যের"
+    ],
+    "correctIndex": 0,
+    "explanation": "নির্দিষ্ট তাপমাত্রায় পরিবাহীর মধ্য দিয়ে প্রবাহিত তড়িৎপ্রবাহ তার দুই প্রান্তের বিভব পার্থক্যের সমানুপাতিক (V = IR)।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_177",
+    "subject": "পদার্থবিজ্ঞান",
+    "chapter": "চল তড়িৎ",
+    "question": "রোধের একক কী?",
+    "options": [
+      "ওহম (Ω)",
+      "ভোল্ট (V)",
+      "অ্যাম্পিয়ার (A)",
+      "কুলম্ব (C)"
+    ],
+    "correctIndex": 0,
+    "explanation": "তড়িৎ প্রবাহে পরিবাহী যে বাধা প্রদান করে তাকে রোধ বলে, যার আন্তর্জাতিক একক ওহম (Ohm)।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_178",
+    "subject": "পদার্থবিজ্ঞান",
+    "chapter": "চল তড়িৎ",
+    "question": "শ্রেণি সংযোগে দুটি রোধ R1 ও R2 যুক্ত থাকলে তুল্যরোধ কত?",
+    "options": [
+      "R1 + R2",
+      "(R1 × R2)/(R1 + R2)",
+      "1/R1 + 1/R2",
+      "R1 - R2"
+    ],
+    "correctIndex": 0,
+    "explanation": "সিরিজ বা শ্রেণি সমবায়ে তুল্যরোধ হয় প্রতিটি রোধের সাধারণ বীজগাণিতিক যোগফলের সমান (Rs = R1 + R2)।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_179",
+    "subject": "পদার্থবিজ্ঞান",
+    "chapter": "স্থির তড়িৎ",
+    "question": "দুটি আধানের মধ্যবর্তী আকর্ষণ বা বিকর্ষণ বলের সূত্র কে আবিষ্কার করেন?",
+    "options": [
+      "কুলম্ব",
+      "নিউটন",
+      "ফ্যারাডে",
+      "ভোল্টা"
+    ],
+    "correctIndex": 0,
+    "explanation": "বিজ্ঞানী চার্লস অগাস্টিন দ্য কুলম্ব ১৭৮৫ সালে আধানদ্বয়ের পারস্পরিক বল সংক্রান্ত বিখ্যাত কুলম্বের সূত্র প্রদান করেন।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_180",
+    "subject": "পদার্থবিজ্ঞান",
+    "chapter": "শব্দ ও তরঙ্গ",
+    "question": "শব্দ তরঙ্গ কোন ধরনের তরঙ্গ?",
+    "options": [
+      "অনুদৈর্ঘ্য বা লম্বিক তরঙ্গ",
+      "অনাপ্রস্থ বা অনুপ্রস্থ তরঙ্গ",
+      "তাড়িতচৌম্বকীয় তরঙ্গ",
+      "স্থির তরঙ্গ"
+    ],
+    "correctIndex": 0,
+    "explanation": "শব্দ তরঙ্গে মাধ্যমের কণাগুলো তরঙ্গের গতির সমান্তরালে সংকুচিত ও প্রসারিত হয়ে অগ্রসর হয়, তাই এটি অনুদৈর্ঘ্য তরঙ্গ।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_181",
+    "subject": "পদার্থবিজ্ঞান",
+    "chapter": "আধুনিক পদার্থবিজ্ঞান",
+    "question": "তেজস্ক্রিয়তা কে আবিষ্কার করেন?",
+    "options": [
+      "হেনরি বেকেরেল",
+      "মাদাম কুরী",
+      "আইনস্টাইন",
+      "রাদারফোর্ড"
+    ],
+    "correctIndex": 0,
+    "explanation": "১৮৯৬ সালে ফরাসি পদার্থবিজ্ঞানী হেনরি বেকেরেল ইউরেনিয়াম ধাতুর স্বতঃস্ফূর্ত বিকিরণ বা তেজস্ক্রিয়তা আবিষ্কার করেন।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_182",
+    "subject": "পদার্থবিজ্ঞান",
+    "chapter": "আধুনিক পদার্থবিজ্ঞান",
+    "question": "আলফা (α) কণা আসলে কীসের নিউক্লিয়াস?",
+    "options": [
+      "হিলিয়াম নিউক্লিয়াস (He^2+)",
+      "হাইড্রোজেন নিউক্লিয়াস",
+      "ইলেকট্রনের স্রোত",
+      "নিউট্রনের কণা"
+    ],
+    "correctIndex": 0,
+    "explanation": "আলফা কণা হলো দুটি প্রোটন ও দুটি নিউট্রন বিশিষ্ট দ্বি-ধনাত্মক আধানযুক্ত হিলিয়াম নিউক্লিয়াস।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_183",
+    "subject": "রসায়ন",
+    "chapter": "পদার্থের অবস্থা",
+    "question": "স্বতঃস্ফূর্তভাবে বেশি ঘনত্বের স্থান থেকে কম ঘনত্বের স্থানে পদার্থের ছড়িয়ে পড়াকে কী বলে?",
+    "options": [
+      "ব্যাপন (Diffusion)",
+      "নিঃসরণ (Effusion)",
+      "ঘনীভবন",
+      "ঊর্ধ্বপাতন"
+    ],
+    "correctIndex": 0,
+    "explanation": "কোনো মাধ্যমে কঠিন, তরল বা বায়বীয় পদার্থের স্বতঃস্ফূর্ত ও সমভাবে ছড়িয়ে পড়ার প্রাকৃতিক প্রক্রিয়াকে ব্যাপন বলে।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_184",
+    "subject": "রসায়ন",
+    "chapter": "পদার্থের অবস্থা",
+    "question": "নিচের কোনটি ঊর্ধ্বপাতিত (Sublimable) পদার্থ?",
+    "options": [
+      "কর্পূর ও নিশাদল",
+      "সোডিয়াম ক্লোরাইড",
+      "পানি",
+      "চিনি"
+    ],
+    "correctIndex": 0,
+    "explanation": "কর্পূর, নিশাদল (NH4Cl), আয়োডিন এবং ন্যাপথালিনকে উত্তপ্ত করলে তরল না হয়ে সরাসরি গ্যাসে পরিণত হয়।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_185",
+    "subject": "রসায়ন",
+    "chapter": "পদার্থের গঠন",
+    "question": "পরমাণুর কেন্দ্রে ধনাত্মক আধানযুক্ত ভারী অংশটিকে কী বলে?",
+    "options": [
+      "নিউক্লিয়াস",
+      "কক্ষপথ",
+      "ইলেকট্রন মেঘ",
+      "আইসোটোপ"
+    ],
+    "correctIndex": 0,
+    "explanation": "রাদারফোর্ডের আলফা কণা বিচ্ছুরণ পরীক্ষায় আবিষ্কৃত হয় যে পরমাণুর কেন্দ্রে ধনাত্মক নিউক্লিয়াস অবস্থিত।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_186",
+    "subject": "রসায়ন",
+    "chapter": "পদার্থের গঠন",
+    "question": "প্রোটন ও নিউট্রনের সংখ্যার যোগফলকে কী বলা হয়?",
+    "options": [
+      "ভর সংখ্যা (Mass Number)",
+      "পারমাণবিক সংখ্যা",
+      "যোজ্যতা",
+      "পারমাণবিক ভর"
+    ],
+    "correctIndex": 0,
+    "explanation": "পরমাণুর নিউক্লিয়াসে থাকা মোট প্রোটন সংখ্যা ও নিউট্রন সংখ্যার সমষ্টিকে ভর সংখ্যা (A) বলে।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_187",
+    "subject": "রসায়ন",
+    "chapter": "পদার্থের গঠন",
+    "question": "যেসব পরমাণুর প্রোটন সংখ্যা সমান কিন্তু ভর সংখ্যা ভিন্ন তাদের কী বলে?",
+    "options": [
+      "আইসোটোপ",
+      "আইসোবার",
+      "আইসোটোন",
+      "আইসোমার"
+    ],
+    "correctIndex": 0,
+    "explanation": "হাইড্রোজেনের তিনটি প্রধান আইসোটোপ রয়েছে: প্রোটিয়াম, ডিউটেরিয়াম ও ট্রিটিয়াম। প্রোটন সমান হলে আইসোটোপ হয়।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_188",
+    "subject": "রসায়ন",
+    "chapter": "পর্যায় সারণি",
+    "question": "আধুনিক পর্যায় সারণির মূল ভিত্তি কী?",
+    "options": [
+      "পারমাণবিক সংখ্যা (ইলেকট্রন বিন্যাস)",
+      "পারমাণবিক ভর",
+      "ঘনত্ব",
+      "গলনাঙ্ক"
+    ],
+    "correctIndex": 0,
+    "explanation": "বিজ্ঞানী মোসলে দেখান যে মৌলসমূহের ভৌত ও রাসায়নিক ধর্ম তাদের পারমাণবিক সংখ্যা অনুযায়ী পর্যায়ক্রমে আবর্তিত হয়।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_189",
+    "subject": "রসায়ন",
+    "chapter": "পর্যায় সারণি",
+    "question": "পর্যায় সারণিতে মোট কয়টি পর্যায় ও গ্রুপ রয়েছে?",
+    "options": [
+      "৭টি পর্যায় ও ১৮টি গ্রুপ",
+      "৮টি পর্যায় ও ১৬টি গ্রুপ",
+      "৬টি পর্যায় ও ৮টি গ্রুপ",
+      "৭টি পর্যায় ও ৮টি গ্রুপ"
+    ],
+    "correctIndex": 0,
+    "explanation": "আধুনিক আন্তর্জাতিক IUPAC পর্যায় সারণিতে অনুভূমিক ৭টি পর্যায় এবং উলম্ব ১৮টি গ্রুপ রয়েছে।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_190",
+    "subject": "রসায়ন",
+    "chapter": "পর্যায় সারণি",
+    "question": "কোন গ্রুপভুক্ত মৌলগুলোকে নিষ্ক্রিয় গ্যাস (Noble Gases) বলা হয়?",
+    "options": [
+      "গ্রুপ ১৮",
+      "গ্রুপ ১",
+      "গ্রুপ ১৭",
+      "গ্রুপ ২"
+    ],
+    "correctIndex": 0,
+    "explanation": "হিলিয়াম, নিয়ন, আর্গন, ক্রিপ্টন, জেনন ও রেডন গ্রুপ ১৮-তে অবস্থিত অত্যন্ত স্থিতিশীল নিষ্ক্রিয় গ্যাস।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_191",
+    "subject": "রসায়ন",
+    "chapter": "পর্যায় সারণি",
+    "question": "হ্যালোজেন মৌলসমূহ পর্যায় সারণির কোন গ্রুপে অবস্থিত?",
+    "options": [
+      "গ্রুপ ১৭",
+      "গ্রুপ ১৬",
+      "গ্রুপ ২",
+      "গ্রুপ ১"
+    ],
+    "correctIndex": 0,
+    "explanation": "ফ্লোরিন, ক্লোরিন, ব্রোমিন, আয়োডিন সমুদ্রের লবণ উৎপাদক বিধায় এদের হ্যালোজেন বলে, এরা গ্রুপ ১৭-তে থাকে।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_192",
+    "subject": "রসায়ন",
+    "chapter": "রাসায়নিক বন্ধন",
+    "question": "সোডিয়াম ক্লোরাইড (NaCl) এ কোন ধরনের রাসায়নিক বন্ধন বিদ্যমান?",
+    "options": [
+      "আয়নিক বন্ধন",
+      "সমযোজী বন্ধন",
+      "ধাতব বন্ধন",
+      "হাইড্রোজেন বন্ধন"
+    ],
+    "correctIndex": 0,
+    "explanation": "ধাতু সোডিয়াম ইলেকট্রন ত্যাগ করে এবং অধাতু ক্লোরিন তা গ্রহণ করে স্থির বৈদ্যুতিক আকর্ষণে আয়নিক বন্ধন গঠন করে।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_193",
+    "subject": "রসায়ন",
+    "chapter": "রাসায়নিক বন্ধন",
+    "question": "পানির অণুতে (H2O) কয়টি সমযোজী বন্ধন থাকে?",
+    "options": [
+      "২টি",
+      "১টি",
+      "৩টি",
+      "৪টি"
+    ],
+    "correctIndex": 0,
+    "explanation": "অক্সিজেন পরমাণু দুটি হাইড্রোজেন পরমাণুর সাথে দুটি ইলেকট্রন জোড় শেয়ার করে ২টি একক সমযোজী বন্ধন তৈরি করে।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_194",
+    "subject": "রসায়ন",
+    "chapter": "রাসায়নিক বন্ধন",
+    "question": "নিষ্ক্রিয় গ্যাসের অষ্টক নিয়মে সর্বশেষ কক্ষপথে কয়টি ইলেকট্রন থাকে?",
+    "options": [
+      "৮টি",
+      "২টি",
+      "৬টি",
+      "১০টি"
+    ],
+    "correctIndex": 0,
+    "explanation": "হিলিয়াম ব্যতীত সকল নিষ্ক্রিয় গ্যাসের সর্ববহিস্থ শক্তিস্তরে ৮টি ইলেকট্রন (ns^2 np^6) থাকে।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_195",
+    "subject": "রসায়ন",
+    "chapter": "মোলের ধারণা",
+    "question": "১ মোল যেকোনো গ্যাসে প্রমাণ তাপমাত্রা ও চাপে (STP) আয়তন কত লিটার?",
+    "options": [
+      "২২.৪ লিটার",
+      "২৪.৭৮ লিটার",
+      "২০.০ লিটার",
+      "১.০ লিটার"
+    ],
+    "correctIndex": 0,
+    "explanation": "অ্যাভোগাড্রোর সূত্রানুযায়ী STP-তে (0°C ও 1 atm) এক মোল যেকোনো গ্যাসের মোলার আয়তন ২২.৪ লিটার।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_196",
+    "subject": "রসায়ন",
+    "chapter": "মোলের ধারণা",
+    "question": "অ্যাভোগাড্রো সংখ্যার (Avogadro's Number) সঠিক মান কোনটি?",
+    "options": [
+      "6.02 × 10^23",
+      "6.02 × 10^22",
+      "3.0 × 10^8",
+      "1.6 × 10^-19"
+    ],
+    "correctIndex": 0,
+    "explanation": "যেকোনো পদার্থের এক মোলে বিদ্যমান কণার সংখ্যা হলো 6.023 × 10^23 টি।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_197",
+    "subject": "রসায়ন",
+    "chapter": "মোলের ধারণা",
+    "question": "সালফিউরিক এসিডের (H2SO4) আণবিক ভর কত?",
+    "options": [
+      "৯৮",
+      "৬৩",
+      "৩৬.৫",
+      "১০০"
+    ],
+    "correctIndex": 0,
+    "explanation": "H2SO4 = (1 × 2) + 32 + (16 × 4) = 2 + 32 + 64 = 98।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_198",
+    "subject": "রসায়ন",
+    "chapter": "রাসায়নিক বিক্রিয়া",
+    "question": "যে রাসায়নিক বিক্রিয়ায় তাপ উৎপন্ন হয় তাকে কী বিক্রিয়া বলে?",
+    "options": [
+      "তাপোৎপাদী বিক্রিয়া",
+      "তাপহারী বিক্রিয়া",
+      "সংযোজন বিক্রিয়া",
+      "প্রতিস্থাপন বিক্রিয়া"
+    ],
+    "correctIndex": 0,
+    "explanation": "যে বিক্রিয়ায় তাপ নির্গত বা উৎপন্ন হয় তাকে তাপোৎপাদী (Exothermic) বিক্রিয়া বলে, যার ΔH এর মান ঋণাত্মক।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_199",
+    "subject": "রসায়ন",
+    "chapter": "রাসায়নিক বিক্রিয়া",
+    "question": "জারণ (Oxidation) বিক্রিয়ায় মূল প্রক্রিয়া কোনটি?",
+    "options": [
+      "ইলেকট্রন বর্জন",
+      "ইলেকট্রন গ্রহণ",
+      "প্রোটন বর্জন",
+      "অক্সিজেন হ্রাস"
+    ],
+    "correctIndex": 0,
+    "explanation": "আধুনিক ইলেকট্রনীয় মতবাদ অনুসারে, যে রাসায়নিক বিক্রিয়ায় পরমাণু বা আয়ন ইলেকট্রন ত্যাগ করে তাকে জারণ বলে।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_200",
+    "subject": "রসায়ন",
+    "chapter": "রাসায়নিক বিক্রিয়া",
+    "question": "লোহায় মরিচা পড়ার জন্য মূলত কোনটি দায়ী?",
+    "options": [
+      "পানি ও অক্সিজেন",
+      "কেবল নাইট্রোজেন",
+      "কার্বন ডাইঅক্সাইড",
+      "হাইড্রোজেন"
+    ],
+    "correctIndex": 0,
+    "explanation": "আর্দ্র বাতাসের অক্সিজেন ও পানির উপস্থিতিতে লোহার উপর আর্দ্র ফেরিক অক্সাইডের (Fe2O3.nH2O) আস্তরণ বা মরিচা পড়ে।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_201",
+    "subject": "রসায়ন",
+    "chapter": "এসিড ও ক্ষার",
+    "question": "বিশুদ্ধ পানির pH এর মান কত?",
+    "options": [
+      "৭ (নিরপেক্ষ)",
+      "০",
+      "১৪",
+      "৫.৫"
+    ],
+    "correctIndex": 0,
+    "explanation": "২৫ ডিগ্রি সেলসিয়াস তাপমাত্রায় নিরপেক্ষ পানির pH মান ঠিক ৭ হয়। ৭ এর নিচে এসিডিক এবং উপরে ক্ষারীয়।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_202",
+    "subject": "রসায়ন",
+    "chapter": "এসিড ও ক্ষার",
+    "question": "নীল লিটমাস কাগজকে লাল করে কোনটি?",
+    "options": [
+      "এসিড",
+      "ক্ষারক",
+      "লবণ",
+      "পানি"
+    ],
+    "correctIndex": 0,
+    "explanation": "এসিড নীল লিটমাসকে লাল বর্ণে রূপান্তরিত করে, এবং ক্ষারক লাল লিটমাসকে নীল করে।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_203",
+    "subject": "রসায়ন",
+    "chapter": "এসিড ও ক্ষার",
+    "question": "মৌমাছি বা পিঁপড়ার কামড়ে কোন এসিড থাকে?",
+    "options": [
+      "মিথানয়িক বা ফর্মিক এসিড",
+      "এসিটিক এসিড",
+      "সাইট্রিক এসিড",
+      "টারটারিক এসিড"
+    ],
+    "correctIndex": 0,
+    "explanation": "পিঁপড়া ও মৌমাছির বিষে ফর্মিক এসিড থাকে, যা প্রশমিত করতে চুন বা ক্যালামাইন লোশন লাগানো হয়।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_204",
+    "subject": "রসায়ন",
+    "chapter": "রসায়ন ও শক্তি",
+    "question": "শুষ্ক কোষে (Dry Cell) ক্যাথোড হিসেবে কী কাজ করে?",
+    "options": [
+      "কার্বন বা গ্রাফাইট দণ্ড",
+      "দস্তার তৈরি চোঙ",
+      "তামার পাত",
+      "লোহার রড"
+    ],
+    "correctIndex": 0,
+    "explanation": "ড্রাই সেলে মাঝখানের কার্বন বা গ্রাফাইট দণ্ডটি ধনাত্মক প্রান্ত (ক্যাথোড) এবং চারপাশের দস্তার পাত্রটি অ্যানোড হিসেবে কাজ করে।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_205",
+    "subject": "রসায়ন",
+    "chapter": "খনিজ ও জীবাশ্ম",
+    "question": "প্রাকৃতিক গ্যাসের প্রধান উপাদান কোনটি?",
+    "options": [
+      "মিথেন (CH4)",
+      "ইথেন",
+      "প্রোপেন",
+      "বিউটেন"
+    ],
+    "correctIndex": 0,
+    "explanation": "বাংলাদেশে প্রাপ্ত প্রাকৃতিক গ্যাসে প্রায় ৯৫% থেকে ৯৯% পর্যন্ত মিথেন গ্যাস থাকে।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_206",
+    "subject": "রসায়ন",
+    "chapter": "খনিজ ও জীবাশ্ম",
+    "question": "সিরকা বা ভিনেগারে কত শতাংশ এসিটিক এসিডের জলীয় দ্রবণ থাকে?",
+    "options": [
+      "৪% - ১০%",
+      "২০% - ২৫%",
+      "১% - ২%",
+      "৫০%"
+    ],
+    "correctIndex": 0,
+    "explanation": "ইথানয়িক এসিডের (CH3COOH) ৪% থেকে ১০% জলীয় দ্রবণকে সিরকা বা ভিনেগার বলে, যা খাদ্য সংরক্ষণে ব্যবহৃত হয়।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_207",
+    "subject": "রসায়ন",
+    "chapter": "খনিজ ও জীবাশ্ম",
+    "question": "প্লাস্টিক ও পলিথিন তৈরিতে কোন গ্যাস মনোমার হিসেবে ব্যবহৃত হয়?",
+    "options": [
+      "ইথিন (ইথিলিন)",
+      "মিথেন",
+      "অ্যাসিটিলিন",
+      "বেনজিন"
+    ],
+    "correctIndex": 0,
+    "explanation": "উচ্চ চাপ ও তাপমাত্রায় টাইটানিয়াম অক্সাইড প্রভাবকের উপস্থিতিতে ইথিনের পলিমারকরণের মাধ্যমে পলিথিন উৎপাদিত হয়।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_208",
+    "subject": "রসায়ন",
+    "chapter": "ধাতু নিষ্কাশন",
+    "question": "লোহার প্রধান আকরিক কোনটি?",
+    "options": [
+      "হেমাটাইট (Fe2O3)",
+      "বক্সাইট",
+      "ক্যালামাইন",
+      "গ্যালেনা"
+    ],
+    "correctIndex": 0,
+    "explanation": "লোহার সবচেয়ে উৎকৃষ্ট এবং প্রাচুর্যময় প্রাকৃতিক আকরিক হলো হেমাটাইট (Fe2O3)।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_209",
+    "subject": "জীববিজ্ঞান",
+    "chapter": "জীবন পাঠ",
+    "question": "দ্বিপদ নামকরণের প্রবর্তক কে?",
+    "options": [
+      "ক্যারোলাস লিনিয়াস",
+      "অ্যারিস্টটল",
+      "গ্রেগর মেন্ডেল",
+      "চার্লস ডারউইন"
+    ],
+    "correctIndex": 0,
+    "explanation": "সুইডিশ বিজ্ঞানী ক্যারোলাস লিনিয়াস ১৭৫৩ সালে জীবের গণ ও প্রজাতি ভিত্তিক দ্বিপদ নামকরণ পদ্ধতি প্রবর্তন করেন।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_210",
+    "subject": "জীববিজ্ঞান",
+    "chapter": "জীবন পাঠ",
+    "question": "মানুষের বৈজ্ঞানিক নাম কোনটি?",
+    "options": [
+      "Homo sapiens",
+      "Panthera leo",
+      "Oryza sativa",
+      "Apis indica"
+    ],
+    "correctIndex": 0,
+    "explanation": "আধুনিক মানব প্রজাতির আন্তর্জাতিক স্বীকৃত বৈজ্ঞানিক নাম Homo sapiens (হোমো স্যাপিয়েন্স)।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_211",
+    "subject": "জীববিজ্ঞান",
+    "chapter": "জীবকোষ ও টিস্যু",
+    "question": "কোষের 'শক্তিঘর' বা 'পাওয়ার হাউস' কাকে বলা হয়?",
+    "options": [
+      "মাইটোকন্ড্রিয়া",
+      "গলজি বস্তু",
+      "রাইবোসোম",
+      "লাইসোসোম"
+    ],
+    "correctIndex": 0,
+    "explanation": "মাইটোকন্ড্রিয়ায় ক্রেবস চক্রসহ শ্বসনের প্রধান শক্তি উৎপাদনকারী ধাপগুলো ঘটে এবং ATP উৎপাদিত হয়।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_212",
+    "subject": "জীববিজ্ঞান",
+    "chapter": "জীবকোষ ও টিস্যু",
+    "question": "উদ্ভিদ কোষে সালোকসংশ্লেষণ সম্পন্নকারী অঙ্গাণু কোনটি?",
+    "options": [
+      "ক্লোরোপ্লাস্ট",
+      "ক্রোমোপ্লাস্ট",
+      "লিউ Kopp্লাস্ট",
+      "সেন্ট্রোসোম"
+    ],
+    "correctIndex": 0,
+    "explanation": "ক্লোরোপ্লাস্টের থাইলাকয়েড ও স্ট্রোমায় ক্লোরোফিলের সাহায্যে সৌরশক্তি রাসায়নিক শক্তিতে রূপান্তরিত হয়।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_213",
+    "subject": "জীববিজ্ঞান",
+    "chapter": "জীবকোষ ও টিস্যু",
+    "question": "কোষের প্রোটিন তৈরির কারখানা বলা হয় কাকে?",
+    "options": [
+      "রাইবোসোম",
+      "লাইসোসোম",
+      "মাইটোকন্ড্রিয়া",
+      "নিউক্লিওলাস"
+    ],
+    "correctIndex": 0,
+    "explanation": "রাইবোসোম মেসেঞ্জার আরএনএ (mRNA) কোড অনুযায়ী অ্যামিনো এসিড জোড়া লাগিয়ে প্রোটিন সংশ্লেষণ করে।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_214",
+    "subject": "জীববিজ্ঞান",
+    "chapter": "কোষ বিভাজন",
+    "question": "দেহের বৃদ্ধি ও ক্ষত পূরণের জন্য কোন কোষ বিভাজন ঘটে?",
+    "options": [
+      "মাইটোসিস",
+      "মিয়োসিস",
+      "অ্যামাইটোসিস",
+      "দ্বি-ভাজন"
+    ],
+    "correctIndex": 0,
+    "explanation": "দেহকোষে মাইটোসিস বিভাজনের মাধ্যমে মাতৃকোষের সমান ক্রোমোজোম বিশিষ্ট দুটি অপত্য কোষ সৃষ্টি হয়ে জীবের দৈহিক বৃদ্ধি ঘটে।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_215",
+    "subject": "জীববিজ্ঞান",
+    "chapter": "কোষ বিভাজন",
+    "question": "মিয়োসিস কোষ বিভাজনকে 'হ্রাসমূলক বিভাজন' বলা হয় কেন?",
+    "options": [
+      "অপত্য কোষে ক্রোমোজোম সংখ্যা অর্ধেক হয়ে যায়",
+      "কোষের আকার ছোট হয়",
+      "নিউক্লিয়াস নষ্ট হয়",
+      "কোষ দ্রুত ধ্বংস হয়"
+    ],
+    "correctIndex": 0,
+    "explanation": "জনন মাতৃকোষে মিয়োসিসের ফলে ক্রোমোজোম সংখ্যা 2n থেকে কমে n (হ্যাপ্লয়েড) এ পরিণত হয়।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_216",
+    "subject": "জীববিজ্ঞান",
+    "chapter": "কোষ বিভাজন",
+    "question": "মাইটোসিসের কোন ধাপে ক্রোমোজোমগুলো বিষুবীয় অঞ্চলে অবস্থান নেয়?",
+    "options": [
+      "মেটাফেজ",
+      "প্রোফেজ",
+      "অ্যানাফেজ",
+      "টেলোফেজ"
+    ],
+    "correctIndex": 0,
+    "explanation": "মেটাফেজ ধাপে সব ক্রোমোজোম স্পিন্ডল যন্ত্রের বিষুবীয় তলে সজ্জিত হয় এবং সবচেয়ে খাটো ও মোটা দেখায়।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_217",
+    "subject": "জীববিজ্ঞান",
+    "chapter": "জীবনীশক্তি",
+    "question": "সালোকসংশ্লেষণের প্রধান উপজাত (By-product) গ্যাস কোনটি?",
+    "options": [
+      "অক্সিজেন (O2)",
+      "কার্বন ডাইঅক্সাইড",
+      "নাইট্রোজেন",
+      "মিথেন"
+    ],
+    "correctIndex": 0,
+    "explanation": "পানির ফটোলাইসিসের মাধ্যমে সালোকসংশ্লেষণে পরিবেশের জন্য অপরিহার্য অক্সিজেন গ্যাস নির্গত হয়।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_218",
+    "subject": "জীববিজ্ঞান",
+    "chapter": "জীবনীশক্তি",
+    "question": "ATP অণুর পূর্ণরূপ কী?",
+    "options": [
+      "Adenosine Triphosphate",
+      "Active Transport Protein",
+      "Amino Triphosphate",
+      "Adenine Total Phosphate"
+    ],
+    "correctIndex": 0,
+    "explanation": "ATP হলো জৈব মুদ্রা বা শক্তি মুদ্রা, যার পুরো নাম অ্যাডিনোসিন ট্রাইফসফেট।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_219",
+    "subject": "জীববিজ্ঞান",
+    "chapter": "পরিপাক",
+    "question": "মানবদেহের সবচেয়ে বড় গ্রন্থি কোনটি?",
+    "options": [
+      "যকৃৎ (Liver)",
+      "অগ্ন্যাশয়",
+      "লালাগ্রন্থি",
+      "থাইরয়েড গ্রন্থি"
+    ],
+    "correctIndex": 0,
+    "explanation": "যকৃৎ মানবদেহের বৃহত্তম পৌষ্টিক গ্রন্থি যা পিত্তরস তৈরি করে এবং নানা বিপাকীয় কার্য নিয়ন্ত্রণ করে।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_220",
+    "subject": "জীববিজ্ঞান",
+    "chapter": "পরিপাক",
+    "question": "পাকস্থলীতে প্রোটিন পরিপাককারী সক্রিয় এনজাইম কোনটি?",
+    "options": [
+      "পেপসিন",
+      "টায়ালিন",
+      "ট্রিপসিন",
+      "অ্যামাইলেজ"
+    ],
+    "correctIndex": 0,
+    "explanation": "পাকস্থলীর গ্যাস্ট্রিক জুসের নিষ্ক্রিয় পেপসিনোজেন হাইড্রোক্লোরিক এসিডের উপস্থিতিতে সক্রিয় পেপসিনে রূপ নিয়ে প্রোটিন ভাঙে।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_221",
+    "subject": "জীববিজ্ঞান",
+    "chapter": "জীবে পরিবহন",
+    "question": "রক্তের তরল অংশ বা রক্তরসের (প্লাজমা) পরিমাণ কত শতাংশ?",
+    "options": [
+      "প্রায় ৫৫%",
+      "প্রায় ৪৫%",
+      "প্রায় ২০%",
+      "প্রায় ৯০%"
+    ],
+    "correctIndex": 0,
+    "explanation": "মোট রক্তের প্রায় ৫৫ ভাগ রক্তরস (রক্তের হালকা হলুদ বর্ণের তরল অংশ) এবং বাকি ৪৫ ভাগ রক্তকণিকা।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_222",
+    "subject": "জীববিজ্ঞান",
+    "chapter": "জীবে পরিবহন",
+    "question": "লোহিত রক্তকণিকায় কোন প্রোটিনের কারণে রক্ত লাল দেখায়?",
+    "options": [
+      "হিমোগ্লোবিন",
+      "মায়োগ্লোবিন",
+      "ফাইব্রিনোজেন",
+      "অ্যালবুমিন"
+    ],
+    "correctIndex": 0,
+    "explanation": "হিমোগ্লোবিন হলো লৌহঘটিত শ্বাসরঞ্জক প্রোটিন যা ফুসফুস থেকে সারা দেহে অক্সিজেন পরিবহন করে।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_223",
+    "subject": "জীববিজ্ঞান",
+    "chapter": "জীবে পরিবহন",
+    "question": "সর্বজনীন দাতা (Universal Donor) বলা হয় রক্তের কোন গ্রুপকে?",
+    "options": [
+      "O গ্রুপ",
+      "AB গ্রুপ",
+      "A গ্রুপ",
+      "B গ্রুপ"
+    ],
+    "correctIndex": 0,
+    "explanation": "O গ্রুপের রক্তে কোনো A বা B অ্যান্টিজেন থাকে না, তাই এটি যেকোনো গ্রুপের গ্রহীতাকে নিরাপদে দেওয়া যায়।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_224",
+    "subject": "জীববিজ্ঞান",
+    "chapter": "জীবে পরিবহন",
+    "question": "উদ্ভিদের মূল থেকে পাতায় পানি পরিবহন করে কোন টিস্যু?",
+    "options": [
+      "জাইলেম টিস্যু",
+      "ফ্লোয়েম টিস্যু",
+      "প্যারেনকাইমা",
+      "কোলেনকাইমা"
+    ],
+    "correctIndex": 0,
+    "explanation": "জাইলেম টিস্যু মাটি থেকে শোষিত পানি ও খনিজ লবণ ঊর্ধ্বমুখী পরিবহনের মাধ্যমে পাতায় পৌঁছে দেয়।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_225",
+    "subject": "জীববিজ্ঞান",
+    "chapter": "রেচন প্রক্রিয়া",
+    "question": "মানবদেহের প্রধান রেচন অঙ্গ কোনটি?",
+    "options": [
+      "বৃক্ক (Kidney)",
+      "ফুসফুস",
+      "ত্বক",
+      "যকৃৎ"
+    ],
+    "correctIndex": 0,
+    "explanation": "বৃক্ক নাইট্রোজেনঘটিত ক্ষতিকর বর্জ্য (যেমন ইউরিয়া ও ইউরিক এসিড) রক্ত থেকে ছেঁকে মূত্র হিসেবে নিষ্কাশন করে।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_226",
+    "subject": "জীববিজ্ঞান",
+    "chapter": "রেচন প্রক্রিয়া",
+    "question": "বৃক্কের গঠনগত ও কার্যকরী একককে কী বলে?",
+    "options": [
+      "নেফ্রন (Nephron)",
+      "নিউরন",
+      "অ্যালভিওলাই",
+      "অ্যাক্সন"
+    ],
+    "correctIndex": 0,
+    "explanation": "প্রতিটি মানব বৃক্কে প্রায় ১০ থেকে ১২ লক্ষ অতি সূক্ষ্ম ছাঁকন একক থাকে যাদের নেফ্রন বলা হয়।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_227",
+    "subject": "জীববিজ্ঞান",
+    "chapter": "সমন্বয়",
+    "question": "স্নায়ুতন্ত্রের গঠন ও কার্যকরী একক কোনটি?",
+    "options": [
+      "নিউরন (Neuron)",
+      "নেফ্রন",
+      "সাইটন",
+      "ডেনড্রন"
+    ],
+    "correctIndex": 0,
+    "explanation": "নিউরন সংবেদন গ্রহণ করে কেন্দ্রীয় স্নায়ুতন্ত্রে পাঠায় এবং দ্রুত প্রতিক্রিয়া জানাতে সাহায্য করে।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_228",
+    "subject": "জীববিজ্ঞান",
+    "chapter": "সমন্বয়",
+    "question": "রক্তে গ্লুকোজের মাত্রা নিয়ন্ত্রণে সহায়ক হরমোন কোনটি?",
+    "options": [
+      "ইনসুলিন",
+      "থাইরক্সিন",
+      "অ্যাড্রেনালিন",
+      "ইস্ট্রোজেন"
+    ],
+    "correctIndex": 0,
+    "explanation": "অগ্ন্যাশয়ের আইলেটস অব ল্যাঙ্গারহ্যান্সের বিটা কোষ থেকে ক্ষরিত ইনসুলিন রক্তের অতিরিক্ত গ্লুকোজকে গ্লাইকোজেনে রূপান্তর করে।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_229",
+    "subject": "জীববিজ্ঞান",
+    "chapter": "বংশগতিবিদ্যা",
+    "question": "বংশগতির ভৌত ভিত্তি বলা হয় কাকে?",
+    "options": [
+      "ক্রোমোজোম",
+      "সাইটোপ্লাজম",
+      "সেন্ট্রোসোম",
+      "প্লাস্টিড"
+    ],
+    "correctIndex": 0,
+    "explanation": "ক্রোমোজোম পিতামাতার বৈশিষ্ট্যসমূহ জিনের মাধ্যমে সন্তান-সন্ততিতে বহন করে নিয়ে যায়।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_230",
+    "subject": "জীববিজ্ঞান",
+    "chapter": "বংশগতিবিদ্যা",
+    "question": "DNA অণুর ডাবল হেলিক্স মডেল কে আবিষ্কার করেন?",
+    "options": [
+      "ওয়াটসন ও ক্রিক",
+      "মেন্ডেল",
+      "ডারউইন",
+      "রবার্ট হুক"
+    ],
+    "correctIndex": 0,
+    "explanation": "১৯৫৩ সালে জেমস ওয়াটসন ও ফ্রান্সিস ক্রিক ডিএনএর দ্বিতন্ত্রী প্যাঁচানো সিঁড়ির মতো গঠন আবিষ্কার করে নোবেল পুরস্কার পান।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_231",
+    "subject": "জীববিজ্ঞান",
+    "chapter": "বংশগতিবিদ্যা",
+    "question": "বংশগতিবিদ্যার জনক কে?",
+    "options": [
+      "গ্রেগর জোহান মেন্ডেল",
+      "চার্লস ডারউইন",
+      "ল্যামার্ক",
+      "অ্যারিস্টটল"
+    ],
+    "correctIndex": 0,
+    "explanation": "অস্ট্রিয়ান ধর্মযাজক গ্রেগর মেন্ডেল মটরশুঁটি উদ্ভিদে সংকরায়ণ পরীক্ষা করে বংশগতির মূল নিয়মগুলো আবিষ্কার করেন।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_232",
+    "subject": "জীববিজ্ঞান",
+    "chapter": "শ্বসন",
+    "question": "এক অণু গ্লুকোজ সবাত শ্বসনে জারিত হয়ে কত অণু ATP উৎপন্ন করে?",
+    "options": [
+      "৩৮ অণু (বা বর্তমান মতে ৩৬-৩৮ অণু)",
+      "২ অণু",
+      "৪ অণু",
+      "১২ অণু"
+    ],
+    "correctIndex": 0,
+    "explanation": "সবাত শ্বসনে গ্লাইকোলাইসিস, এসিটাইল কো-এ, ক্রেবস চক্র ও ইলেকট্রন পরিবহন তন্ত্র শেষে প্রায় ৩৮ অণু ATP পাওয়া যায়।",
+    "difficulty": "hard"
+  },
+  {
+    "id": "subsubsub_233",
+    "subject": "জীববিজ্ঞান",
+    "chapter": "পরিবেশের ভারসাম্য",
+    "question": "একটি বাস্তুতন্ত্রে উৎপাদক (Producer) কারা?",
+    "options": [
+      "সবুজ উদ্ভিদ",
+      "তৃণভোজী প্রাণী",
+      "মাংসাশী শিকারী",
+      "ব্যাকটেরিয়া ও ছত্রাক"
+    ],
+    "correctIndex": 0,
+    "explanation": "সূর্যালোকের সাহায্যে নিজের খাদ্য নিজে তৈরি করার ক্ষমতা কেবল সবুজ উদ্ভিদের রয়েছে, তাই এরা উৎপাদক।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_234",
+    "subject": "জীববিজ্ঞান",
+    "chapter": "জীবপ্রযুক্তি",
+    "question": "জিন প্রকৌশল বা রিকম্বিনেন্ট ডিএনএ প্রযুক্তিতে ডিএনএ কাটার আণবিক কাঁচি কোনটি?",
+    "options": [
+      "রেস্ট্রিকশন এনজাইম",
+      "ডিএনএ লাইগেজ",
+      "পলিমারেজ",
+      "এমাইলেজ"
+    ],
+    "correctIndex": 0,
+    "explanation": "নির্দিষ্ট ক্ষারক্রম চিনে ডিএনএ সূত্র কাটতে পারে বলে রেস্ট্রিকশন এন্ডোনিউক্লিয়েজকে আণবিক কাঁচি (Molecular scissors) বলা হয়।",
+    "difficulty": "hard"
+  },
+  {
+    "id": "subsubsub_235",
+    "subject": "বাংলাদেশ ও বিশ্বপরিচয়",
+    "chapter": "পূর্ব বাংলার আন্দোলন",
+    "question": "বাংলা ভাষাকে পাকিস্তানের অন্যতম রাষ্ট্রভাষা করার দাবিতে প্রথম ভাষা আন্দোলন শুরু হয় কত সালে?",
+    "options": [
+      "১৯৪৮ সালে",
+      "১৯৫২ সালে",
+      "১৯৪৭ সালে",
+      "১৯৫৪ সালে"
+    ],
+    "correctIndex": 0,
+    "explanation": "১৯৪৮ সালের মার্চে খাজা নাজিমুদ্দিন ও মোহাম্মদ আলী জিন্নাহ উর্দুকে একমাত্র রাষ্ট্রভাষা করার ঘোষণা দিলে তীব্র প্রতিবাদ শুরু হয়।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_236",
+    "subject": "বাংলাদেশ ও বিশ্বপরিচয়",
+    "chapter": "পূর্ব বাংলার আন্দোলন",
+    "question": "১৯৫২ সালের ২১শে ফেব্রুয়ারি বাংলাকে রাষ্ট্রভাষা করার দাবিতে পুলিশের গুলিতে কারা শহীদ হন?",
+    "options": [
+      "সালাম, বরকত, রফিক, জব্বার",
+      "রুমী, বদি, জুয়েল",
+      "তিতুমীর ও সূর্যসেন",
+      "আসাদ ও মতিউর"
+    ],
+    "correctIndex": 0,
+    "explanation": "ঢাকার রাজপথে মাতৃভাষা বাংলার মর্যাদার দাবিতে মিছিলে পুলিশের গুলিতে শহীদ হন বরকত, রফিক, সালাম, জব্বার প্রমুখ।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_237",
+    "subject": "বাংলাদেশ ও বিশ্বপরিচয়",
+    "chapter": "যুক্তফ্রন্ট ও ছয় দফা",
+    "question": "১৯৫৪ সালের প্রাদেশিক নির্বাচনে যুক্তফ্রন্টের প্রতীক কী ছিল?",
+    "options": [
+      "নৌকা",
+      "ধানের শীষ",
+      "লাঙ্গল",
+      "তারা"
+    ],
+    "correctIndex": 0,
+    "explanation": "মাওলানা ভাসানী, এ কে ফজলুল হক ও হোসেন শহীদ সোহরাওয়ার্দীর নেতৃত্বে যুক্তফ্রন্ট নৌকা প্রতীকে বিপুল জয়লাভ করে।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_238",
+    "subject": "বাংলাদেশ ও বিশ্বপরিচয়",
+    "chapter": "যুক্তফ্রন্ট ও ছয় দফা",
+    "question": "বাঙালির মুক্তির সনদ ঐতিহাসিক 'ছয় দফা' দাবি কত সালে পেশ করা হয়?",
+    "options": [
+      "১৯৬৬ সালে",
+      "১৯৬৯ সালে",
+      "১৯৭০ সালে",
+      "১৯৭১ সালে"
+    ],
+    "correctIndex": 0,
+    "explanation": "বঙ্গবন্ধু শেখ মুজিবুর রহমান ১৯৬৬ সালের ফেব্রুয়ারিতে লাহোরে পূর্ব পাকিস্তানের স্বায়ত্তশাসনের দাবিতে ছয় দফা পেশ করেন।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_239",
+    "subject": "বাংলাদেশ ও বিশ্বপরিচয়",
+    "chapter": "১৯৬৯ গণঅভ্যুত্থান",
+    "question": "১৯৬৯ সালের গণঅভ্যুত্থানে শহীদ হন কোন ছাত্রনেতা ও শিক্ষক?",
+    "options": [
+      "শহীদ আসাদুজ্জামান ও ড. শামসুজ্জোহা",
+      "রফিক ও বরকত",
+      "মেজর জিয়া ও তাহের",
+      "জাহানারা ইমাম"
+    ],
+    "correctIndex": 0,
+    "explanation": "ছাত্রনেতা আসাদ এবং রাজশাহী বিশ্ববিদ্যালয়ের প্রক্টর ড. শামসুজ্জোহার শাহাদাত গণঅভ্যুত্থানকে দুর্বার গতি দান করে।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_240",
+    "subject": "বাংলাদেশ ও বিশ্বপরিচয়",
+    "chapter": "স্বাধীন বাংলাদেশ",
+    "question": "বঙ্গবন্ধু শেখ মুজিবুর রহমান ঐতিহাসিক ৭ই মার্চের ভাষণ কোথায় দেন?",
+    "options": [
+      "ঢাকার রেসকোর্স ময়দানে (সোহরাওয়ার্দী উদ্যান)",
+      "পল্টন ময়দানে",
+      "ধানমন্ডি ৩২ নম্বরে",
+      "কেন্দ্রীয় শহীদ মিনারে"
+    ],
+    "correctIndex": 0,
+    "explanation": "১৯৭১ সালের ৭ই মার্চ রেসকোর্স ময়দানে প্রায় দশ লক্ষ মানুষের সামনে বঙ্গবন্ধু স্বাধীনতার ডাক দেন: 'এবারের সংগ্রাম আমাদের মুক্তির সংগ্রাম...'।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_241",
+    "subject": "বাংলাদেশ ও বিশ্বপরিচয়",
+    "chapter": "স্বাধীন বাংলাদেশ",
+    "question": "১৯৭১ সালের ২৫শে মার্চ কালরাতে পাকিস্তানি সামরিক বাহিনী পরিচালিত বর্বর গণহত্যার কোডনেম কী ছিল?",
+    "options": [
+      "অপারেশন সার্চলাইট (Operation Searchlight)",
+      "অপারেশন জ্যাকপট",
+      "অপারেশন ব্লু স্টার",
+      "অপারেশন থান্ডারবোল্ট"
+    ],
+    "correctIndex": 0,
+    "explanation": "২৫শে মার্চ মধ্যরাতে নিরস্ত্র বাঙালির ওপর পাকিস্তানি সেনাবাহিনী যে নির্মম হত্যাকাণ্ড শুরু করে তার সাংকেতিক নাম ছিল অপারেশন সার্চলাইট।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_242",
+    "subject": "বাংলাদেশ ও বিশ্বপরিচয়",
+    "chapter": "স্বাধীন বাংলাদেশ",
+    "question": "গণপ্রজাতন্ত্রী বাংলাদেশের অস্থায়ী সরকার (মুজিবনগর সরকার) কত তারিখে শপথ গ্রহণ করে?",
+    "options": [
+      "১৭ই এপ্রিল ১৯৭১",
+      "১০ই এপ্রিল ১৯৭১",
+      "২৬শে মার্চ ১৯৭১",
+      "১৬ই ডিসেম্বর ১৯৭১"
+    ],
+    "correctIndex": 0,
+    "explanation": "মেহেরপুরের বৈদ্যনাথতলার আম্রকাননে ১৯৭১ সালের ১৭ই এপ্রিল স্বাধীন বাংলাদেশের প্রথম সরকারের মন্ত্রিপরিষদ আনুষ্ঠানিক শপথ নেয়।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_243",
+    "subject": "বাংলাদেশ ও বিশ্বপরিচয়",
+    "chapter": "স্বাধীন বাংলাদেশ",
+    "question": "মুজিবনগর সরকারের প্রধানমন্ত্রী কে ছিলেন?",
+    "options": [
+      "তাজউদ্দীন আহমদ",
+      "বঙ্গবন্ধু শেখ মুজিবুর রহমান",
+      "সৈয়দ নজরুল ইসলাম",
+      "খন্দকার মোশতাক"
+    ],
+    "correctIndex": 0,
+    "explanation": "বঙ্গবন্ধু শেখ মুজিবুর রহমান রাষ্ট্রপতি এবং সৈয়দ নজরুল ইসলাম অস্থায়ী রাষ্ট্রপতি হলেও সরকারের প্রধানমন্ত্রী ছিলেন তাজউদ্দীন আহমদ।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_244",
+    "subject": "বাংলাদেশ ও বিশ্বপরিচয়",
+    "chapter": "স্বাধীন বাংলাদেশ",
+    "question": "মুক্তিযুদ্ধে বীরত্বের জন্য প্রদত্ত বীরত্বসূচক সর্বোচ্চ উপাধি কোনটি?",
+    "options": [
+      "বীরশ্রেষ্ঠ",
+      "বীর উত্তম",
+      "বীর বিক্রম",
+      "বীর প্রতীক"
+    ],
+    "correctIndex": 0,
+    "explanation": "মুক্তিযুদ্ধে সর্বোচ্চ আত্মত্যাগের স্বীকৃতিস্বরূপ সাতজন শহীদ যোদ্ধাকে 'বীরশ্রেষ্ঠ' খেতাবে ভূষিত করা হয়।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_245",
+    "subject": "বাংলাদেশ ও বিশ্বপরিচয়",
+    "chapter": "সৌরজগৎ ও ভূমিরূপ",
+    "question": "সৌরজগতের বৃহত্তম গ্রহ কোনটি?",
+    "options": [
+      "বৃহস্পতি (Jupiter)",
+      "শনি",
+      "পৃথিবী",
+      "মঙ্গল"
+    ],
+    "correctIndex": 0,
+    "explanation": "বৃহস্পতি সৌরজগতের সর্ববৃহৎ গ্রহ। এর আয়তন পৃথিবীর চেয়ে প্রায় ১৩০০ গুণ বড়।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_246",
+    "subject": "বাংলাদেশ ও বিশ্বপরিচয়",
+    "chapter": "সৌরজগৎ ও ভূমিরূপ",
+    "question": "পৃথিবীর নিজ অক্ষের চারদিকে একবার আবর্তনকে কী গতি বলে?",
+    "options": [
+      "আহ্নিক গতি",
+      "বার্ষিক গতি",
+      "উপবৃত্তাকার গতি",
+      "চন্দ্রগতি"
+    ],
+    "correctIndex": 0,
+    "explanation": "পৃথিবী তার নিজের মেরুদণ্ডের ওপর ২৪ ঘণ্টায় একবার পশ্চিম থেকে পূর্বে ঘোরে, যার ফলে দিন ও রাত সংঘটিত হয়।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_247",
+    "subject": "বাংলাদেশ ও বিশ্বপরিচয়",
+    "chapter": "ভূপ্রকৃতি ও জলবায়ু",
+    "question": "বাংলাদেশের সর্বোচ্চ পর্বতশৃঙ্গ কোনটি?",
+    "options": [
+      "তাজিংডং (বিজয়)",
+      "কেওক্রাডং",
+      "চিম্বুক",
+      "গারো পাহাড়"
+    ],
+    "correctIndex": 0,
+    "explanation": "সরকারি হিসাব মতে বান্দরবান জেলায় অবস্থিত তাজিংডং বা বিজয় বাংলাদেশের সর্বোচ্চ পর্বতশৃঙ্গ (উচ্চতা প্রায় ১২৩১ মিটার)।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_248",
+    "subject": "বাংলাদেশ ও বিশ্বপরিচয়",
+    "chapter": "ভূপ্রকৃতি ও জলবায়ু",
+    "question": "বাংলাদেশের জলবায়ু মূলত কোন প্রকৃতির?",
+    "options": [
+      "ক্রান্তীয় মৌসুমি জলবায়ু",
+      "নাতিশীতোষ্ণ জলবায়ু",
+      "মরুজ জলবায়ু",
+      "তুন্দ্রা জলবায়ু"
+    ],
+    "correctIndex": 0,
+    "explanation": "কর্কটক্রান্তি রেখা বাংলাদেশের মধ্যভাগ দিয়ে যাওয়ায় এবং মৌসুমি বায়ুর প্রভাবে এদেশের আবহাওয়া নাতিশীতোষ্ণ ও আর্দ্র ক্রান্তীয়।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_249",
+    "subject": "বাংলাদেশ ও বিশ্বপরিচয়",
+    "chapter": "নদনদী ও সম্পদ",
+    "question": "বাংলাদেশ ও মিয়ানমারকে বিভক্তকারী নদী কোনটি?",
+    "options": [
+      "নাফ নদী",
+      "কর্ণফুলী নদী",
+      "হালদা নদী",
+      "সাঙ্গু নদী"
+    ],
+    "correctIndex": 0,
+    "explanation": "বাংলাদেশ-মিয়ানমার আন্তর্জাতিক সীমান্ত দিয়ে প্রবাহিত সীমান্তবর্তী নদী হলো নাফ নদী।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_250",
+    "subject": "বাংলাদেশ ও বিশ্বপরিচয়",
+    "chapter": "নদনদী ও সম্পদ",
+    "question": "প্রাকৃতিক মৎস্য প্রজনন ক্ষেত্র হিসেবে খ্যাত নদী কোনটি?",
+    "options": [
+      "হালদা নদী",
+      "পদ্মা নদী",
+      "মেঘনা নদী",
+      "যমুনা নদী"
+    ],
+    "correctIndex": 0,
+    "explanation": "চট্টগ্রামের হালদা নদী এশিয়ার একমাত্র প্রাকৃতিক নদী যেখানে কার্প জাতীয় মাছ সরাসরি নিষিক্ত ডিম ছাড়ে।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_251",
+    "subject": "বাংলাদেশ ও বিশ্বপরিচয়",
+    "chapter": "রাষ্ট্র ও প্রশাসন",
+    "question": "বাংলাদেশের শাসন ব্যবস্থার মূল ভিত্তি বা সর্বোচ্চ আইন কোনটি?",
+    "options": [
+      "বাংলাদেশের সংবিধান",
+      "দণ্ডবিধি",
+      "প্রশাসনিক বিধিমালা",
+      "পুলিশ আইন"
+    ],
+    "correctIndex": 0,
+    "explanation": "১৯৭২ সালে প্রণীত গণপ্রজাতন্ত্রী বাংলাদেশের সংবিধান হলো রাষ্ট্রের সর্বোচ্চ আইন, যার সাথে সাংঘর্ষিক যেকোনো আইন বাতিল হবে।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_252",
+    "subject": "বাংলাদেশ ও বিশ্বপরিচয়",
+    "chapter": "রাষ্ট্র ও প্রশাসন",
+    "question": "বাংলাদেশ সরকারের প্রধান তিনটি অঙ্গ কী কী?",
+    "options": [
+      "আইন বিভাগ, শাসন বিভাগ ও বিচার বিভাগ",
+      "পুলিশ, সেনাবাহিনী ও বিজিবি",
+      "মন্ত্রণালয়, অধিদপ্তর ও সচিবালয়",
+      "ইউনিয়ন, উপজেলা ও জেলা"
+    ],
+    "correctIndex": 0,
+    "explanation": "গণতান্ত্রিক রাষ্ট্রের ক্ষমতা তিনটি প্রধান স্বাধীন বিভাগের মধ্যে বণ্টিত থাকে: আইন বিভাগ (জাতীয় সংসদ), শাসন বিভাগ ও বিচার বিভাগ।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_253",
+    "subject": "বাংলাদেশ ও বিশ্বপরিচয়",
+    "chapter": "রাষ্ট্র ও প্রশাসন",
+    "question": "জাতীয় সংসদের নির্বাচিত সংসদ সদস্য সংখ্যা কতজন?",
+    "options": [
+      "৩০০ জন",
+      "৩৫০ জন",
+      "২০০ জন",
+      "৫০০ জন"
+    ],
+    "correctIndex": 0,
+    "explanation": "সরাসরি জনগণের ভোটে ৩০০ জন এবং নারীদের জন্য সংরক্ষিত ৫০টি আসন মিলিয়ে মোট ৩৫০ জন সংসদ সদস্য থাকেন।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_254",
+    "subject": "বাংলাদেশ ও বিশ্বপরিচয়",
+    "chapter": "রাষ্ট্র ও প্রশাসন",
+    "question": "স্থানীয় সরকার ব্যবস্থায় গ্রামাঞ্চলের সর্বনিম্ন স্বায়ত্তশাসিত প্রশাসনিক স্তর কোনটি?",
+    "options": [
+      "ইউনিয়ন পরিষদ",
+      "উপজেলা পরিষদ",
+      "জেলা পরিষদ",
+      "পৌরসভা"
+    ],
+    "correctIndex": 0,
+    "explanation": "গ্রামীন স্থানীয় শাসন কাঠামোর মূল ভিত্তি হলো জনগণের প্রত্যক্ষ ভোটে নির্বাচিত ইউনিয়ন পরিষদ।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_255",
+    "subject": "বাংলাদেশ ও বিশ্বপরিচয়",
+    "chapter": "অর্থনীতি",
+    "question": "জিডিপি (GDP) এর পূর্ণরূপ কী?",
+    "options": [
+      "Gross Domestic Product",
+      "General Domestic Price",
+      "Gross Development Program",
+      "Global Direct Purchase"
+    ],
+    "correctIndex": 0,
+    "explanation": "একটি দেশের ভৌগোলিক সীমানার অভ্যন্তরে এক বছরে উৎপাদিত পণ্য ও সেবার মোট বাজারমূল্যকে GDP বলে।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_256",
+    "subject": "বাংলাদেশ ও বিশ্বপরিচয়",
+    "chapter": "অর্থনীতি",
+    "question": "বাংলাদেশের রপ্তানি আয়ের সিংহভাগ আসে কোন খাত থেকে?",
+    "options": [
+      "তৈরি পোশাক শিল্প (RMG)",
+      "পাট ও পাটজাত দ্রব্য",
+      "চামড়া শিল্প",
+      "চা শিল্প"
+    ],
+    "correctIndex": 0,
+    "explanation": "রেডিমেড গার্মেন্টস বা তৈরি পোশাক খাত থেকে বাংলাদেশের মোট বার্ষিক রপ্তানি আয়ের ৮০ শতাংশেরও বেশি অর্জিত হয়।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_257",
+    "subject": "বাংলাদেশ ও বিশ্বপরিচয়",
+    "chapter": "সামাজিক সমস্যা",
+    "question": "বাংলাদেশে আইনে বাল্যবিবাহ বলতে কত বয়সের নিচের বিয়ে নিষিদ্ধ?",
+    "options": [
+      "মেয়েদের ১৮ এবং ছেলেদের ২১ বছর",
+      "মেয়েদের ১৬ এবং ছেলেদের ১৮ বছর",
+      "উভয়ের ২০ বছর",
+      "মেয়েদের ১৮ এবং ছেলেদের ১৮ বছর"
+    ],
+    "correctIndex": 0,
+    "explanation": "বাল্যবিবাহ নিরোধ আইন অনুযায়ী বিয়ের ন্যূনতম বৈধ বয়স মেয়েদের জন্য ১৮ বছর এবং ছেলেদের জন্য ২১ বছর।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_258",
+    "subject": "বাংলাদেশ ও বিশ্বপরিচয়",
+    "chapter": "সামাজিক সমস্যা",
+    "question": "সামাজিকীকরণ প্রক্রিয়ায় শিশুর প্রথম ও প্রধান মাধ্যম কোনটি?",
+    "options": [
+      "পরিবার",
+      "বিদ্যালয়",
+      "খেলার সাথী",
+      "গণমাধ্যম"
+    ],
+    "correctIndex": 0,
+    "explanation": "শিশু জন্মের পর প্রথম পরিবারের সান্নিধ্যে ভাষা, আচরণ ও নৈতিক মূল্যবোধ শেখে, তাই পরিবারই প্রধান মাধ্যম।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_259",
+    "subject": "বাংলাদেশ ও বিশ্বপরিচয়",
+    "chapter": "আন্তর্জাতিক সংস্থা",
+    "question": "জাতিসংঘ (United Nations) আনুষ্ঠানিকভাবে কত সালে প্রতিষ্ঠিত হয়?",
+    "options": [
+      "২৪শে অক্টোবর ১৯৪৫",
+      "১০ই ডিসেম্বর ১৯৪৮",
+      "১লা জানুয়ারি ১৯৪৪",
+      "১৫ই আগস্ট ১৯৪৭"
+    ],
+    "correctIndex": 0,
+    "explanation": "দ্বিতীয় বিশ্বযুদ্ধের ভয়াবহতার পর বৈশ্বিক শান্তি ও নিরাপত্তার লক্ষ্যে ১৯৪৫ সালের ২৪শে অক্টোবর জাতিসংঘ প্রতিষ্ঠিত হয়।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_260",
+    "subject": "বাংলাদেশ ও বিশ্বপরিচয়",
+    "chapter": "টেকসই উন্নয়ন",
+    "question": "জাতিসংঘের টেকসই উন্নয়ন অভীষ্টের (SDG) লক্ষ্যমাত্রা কয়টি?",
+    "options": [
+      "১৭টি",
+      "১৫টি",
+      "৮টি",
+      "২১টি"
+    ],
+    "correctIndex": 0,
+    "explanation": "২০১৫ থেকে ২০৩০ সালের মধ্যে বাস্তবায়নের জন্য জাতিসংঘের ১৭টি সুনির্দিষ্ট টেকসই উন্নয়ন লক্ষ্য (SDG Goals) রয়েছে।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_261",
+    "subject": "ইসলাম ও নৈতিক শিক্ষা",
+    "chapter": "আকাইদ",
+    "question": "'আকাইদ' শব্দের অর্থ কী?",
+    "options": [
+      "বিশ্বাসমালা",
+      "ইবাদত",
+      "আখলাক",
+      "নিয়মকানুন"
+    ],
+    "correctIndex": 0,
+    "explanation": "'আকাইদ' শব্দটি আরবি 'আকিদাহ' শব্দের বহুবচন, যার শাব্দিক অর্থ অন্তরের দৃঢ় বিশ্বাস বা বিশ্বাসমালা।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_262",
+    "subject": "ইসলাম ও নৈতিক শিক্ষা",
+    "chapter": "আকাইদ",
+    "question": "আল্লাহ তায়ালার একত্ববাদে বিশ্বাস করাকে কী বলে?",
+    "options": [
+      "তাওহিদ",
+      "রিসালাত",
+      "আখিরাত",
+      "তাকদীর"
+    ],
+    "correctIndex": 0,
+    "explanation": "আল্লাহ একমাত্র সৃষ্টিকর্তা, পালনকর্তা ও উপাস্য, তাঁর কোনো শরিক নেই—এই একক বিশ্বাসই তাওহিদ।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_263",
+    "subject": "ইসলাম ও নৈতিক শিক্ষা",
+    "chapter": "আকাইদ",
+    "question": "আল্লাহর সাথে কাউকে শরিক বা সমকক্ষ স্থির করাকে কী বলে?",
+    "options": [
+      "শিরক",
+      "কুফর",
+      "নিফাক",
+      "ফাসিক"
+    ],
+    "correctIndex": 0,
+    "explanation": "ইসলামে সবচেয়ে বড় ও ক্ষমার অযোগ্য পাপ হলো শিরক। কুরআন মজিদে শিরককে 'মহা জুলুম' বলা হয়েছে।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_264",
+    "subject": "ইসলাম ও নৈতিক শিক্ষা",
+    "chapter": "আকাইদ",
+    "question": "মুখে ঈমানের দাবি কিন্তু অন্তরে অবিশ্বাস ও কপটতা পোষণ করাকে কী বলে?",
+    "options": [
+      "নিফাক",
+      "শিরক",
+      "বিদআত",
+      "রিদ্দাহ"
+    ],
+    "correctIndex": 0,
+    "explanation": "যাদের অন্তরে অবিশ্বাস অথচ বাহ্যিকভাবে ধার্মিকতার ভান করে তাদের মুনাফিক বলা হয় এবং তাদের কাজকে নিফাক বলে।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_265",
+    "subject": "ইসলাম ও নৈতিক শিক্ষা",
+    "chapter": "আকাইদ",
+    "question": "মৃত্যুর পর পুনরায় জীবিত হওয়া এবং পরকালীন চিরস্থায়ী জীবনকে কী বলে?",
+    "options": [
+      "আখিরাত",
+      "বরজখ",
+      "হাশর",
+      "মিযান"
+    ],
+    "correctIndex": 0,
+    "explanation": "আখিরাত হলো পরকাল। মানুষ তার পার্থিব জীবনের কৃতকর্মের ফল পরকালে জান্নাত বা জাহান্নামের মাধ্যমে ভোগ করবে।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_266",
+    "subject": "ইসলাম ও নৈতিক শিক্ষা",
+    "chapter": "ইবাদত",
+    "question": "ইসলামের পাঁচটি মূল স্তম্ভের মধ্যে দ্বিতীয় স্তম্ভ কোনটি?",
+    "options": [
+      "সালাত (নামাজ)",
+      "যাকাত",
+      "সাওম",
+      "হজ"
+    ],
+    "correctIndex": 0,
+    "explanation": "ঈমানের পরপরই সবচেয়ে গুরুত্বপূর্ণ ও অপরিহার্য ইবাদত হলো দৈনিক পাঁচ ওয়াক্ত সালাত প্রতিষ্ঠা করা।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_267",
+    "subject": "ইসলাম ও নৈতিক শিক্ষা",
+    "chapter": "ইবাদত",
+    "question": "সালাত মানুষকে কোন ধরনের কাজ থেকে বিরত রাখে?",
+    "options": [
+      "অশ্লীল ও মন্দ কাজ থেকে",
+      "ব্যবসা-বাণিজ্য থেকে",
+      "জ্ঞানার্জন থেকে",
+      "সামাজিক মেলামেশা থেকে"
+    ],
+    "correctIndex": 0,
+    "explanation": "পবিত্র কুরআনে বর্ণিত হয়েছে: 'নিশ্চয় সালাত মানুষকে অশ্লীল ও খারাপ কাজ থেকে বিরত রাখে' (সূরা আল-আনকাবুত: ৪৫)।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_268",
+    "subject": "ইসলাম ও নৈতিক শিক্ষা",
+    "chapter": "ইবাদত",
+    "question": "রমজান মাসে সুবহে সাদিক থেকে সূর্যাস্ত পর্যন্ত পানাহার ও কামাচার থেকে বিরত থাকাকে কী বলে?",
+    "options": [
+      "সাওম (রোজা)",
+      "ইতিকাফ",
+      "তাহাজ্জুদ",
+      "সদকা"
+    ],
+    "correctIndex": 0,
+    "explanation": "আল্লাহভীতি অর্জনের উদ্দেশ্যে সুবহে সাদিক হতে সূর্যাস্ত পর্যন্ত যাবতীয় নিষিদ্ধ কাজ থেকে বিরত থাকাই সাওম।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_269",
+    "subject": "ইসলাম ও নৈতিক শিক্ষা",
+    "chapter": "ইবাদত",
+    "question": "যাকাত প্রদানের ক্ষেত্রে সম্পদের নির্ধারিত সর্বনিম্ন পরিমাণকে কী বলে?",
+    "options": [
+      "নিসাব",
+      "ওশর",
+      "খারাজ",
+      "জিজিয়া"
+    ],
+    "correctIndex": 0,
+    "explanation": "সাংসারিক প্রয়োজনীয় ব্যয়ের পর সাড়ে সাত ভরি স্বর্ণ বা সাড়ে বায়ান্ন ভরি রূপা বা সমমূল্যের উদ্বৃত্ত সম্পদ এক বছর থাকলে তাকে নিসাব বলে।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_270",
+    "subject": "ইসলাম ও নৈতিক শিক্ষা",
+    "chapter": "ইবাদত",
+    "question": "যাকাত বণ্টনের খাত পবিত্র কুরআনে কয়টি নির্ধারণ করা হয়েছে?",
+    "options": [
+      "৮টি খাতে",
+      "৬টি খাতে",
+      "১০টি খাতে",
+      "৪টি খাতে"
+    ],
+    "correctIndex": 0,
+    "explanation": "সূরা তাওবার ৬০ নম্বর আয়াতে আল্লাহ তায়ালা যাকাত ব্যয়ের সুনির্দিষ্ট ৮টি খাতের বর্ণনা দিয়েছেন।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_271",
+    "subject": "ইসলাম ও নৈতিক শিক্ষা",
+    "chapter": "কুরআন ও হাদিস",
+    "question": "পবিত্র কুরআন কোন রাতে সর্বপ্রথম নাজিল হয়েছিল?",
+    "options": [
+      "লাইলাতুল কদরে",
+      "শবে বরাতে",
+      "শবে মিরাজে",
+      "আশুরার রাতে"
+    ],
+    "correctIndex": 0,
+    "explanation": "রমজান মাসের বরকতময় কদরের রজনীতে হেরা গুহায় মহানবী (সঃ)-এর উপর পবিত্র কুরআনের প্রথম আয়াত অবতীর্ণ হয়।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_272",
+    "subject": "ইসলাম ও নৈতিক শিক্ষা",
+    "chapter": "কুরআন ও হাদিস",
+    "question": "পবিত্র কুরআনে মোট কতটি সূরা রয়েছে?",
+    "options": [
+      "১১৪টি",
+      "১১০টি",
+      "১২০টি",
+      "৬৬৬৬টি"
+    ],
+    "correctIndex": 0,
+    "explanation": "কুরআনুল কারীমে মোট ১১৪টি সূরা রয়েছে (মাক্কী সূরা ৮৬টি এবং মাদানী সূরা ২৮টি)।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_273",
+    "subject": "ইসলাম ও নৈতিক শিক্ষা",
+    "chapter": "কুরআন ও হাদিস",
+    "question": "হাদিসের বিশুদ্ধতম ছয়টি সংকলনকে একত্রে কী বলা হয়?",
+    "options": [
+      "সিহাহ সিত্তাহ",
+      "মুসনাদ",
+      "মুয়াত্তা",
+      "তাফসীর"
+    ],
+    "correctIndex": 0,
+    "explanation": "সহিহ বুখারী, সহিহ মুসলিম, তিরমিজি, আবু দাউদ, নাসাঈ ও ইবনে মাজাহ গ্রন্থকে একত্রে সিহাহ সিত্তাহ বলা হয়।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_274",
+    "subject": "ইসলাম ও নৈতিক শিক্ষা",
+    "chapter": "কুরআন ও হাদিস",
+    "question": "'জ্ঞানার্জন করা প্রত্যেক মুসলিমের উপর ফরজ'—এটি কার বাণী?",
+    "options": [
+      "রাসূলুল্লাহ (সঃ)",
+      "হযরত আবু বকর (রাঃ)",
+      "ইমাম বুখারী (রঃ)",
+      "ইমাম গাজ্জালী (রঃ)"
+    ],
+    "correctIndex": 0,
+    "explanation": "হযরত মুহাম্মদ (সঃ) শিক্ষার গুরুত্ব তুলে ধরে বলেন: 'তলবুল ইলমি ফরীদ্বাতুন আলা কুল্লি মুসলিম'।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_275",
+    "subject": "ইসলাম ও নৈতিক শিক্ষা",
+    "chapter": "আখলাক",
+    "question": "উত্তম ও প্রশংসনীয় চরিত্রকে আরবিতে কী বলা হয়?",
+    "options": [
+      "আখলাকে হামীদাহ",
+      "আখলাকে জামীমাহ",
+      "মুয়ামালাত",
+      "মুয়াশারাত"
+    ],
+    "correctIndex": 0,
+    "explanation": "সুন্দর, সৎ ও মার্জিত স্বভাবকে আখলাকে হামীদাহ বলা হয়, যা মুমিনের অলংকার। নিন্দনীয় স্বভাব হলো আখলাকে জামীমাহ।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_276",
+    "subject": "ইসলাম ও নৈতিক শিক্ষা",
+    "chapter": "আখলাক",
+    "question": "'আল-আমীন' শব্দের অর্থ কী?",
+    "options": [
+      "পরম বিশ্বাসী",
+      "সত্যবাদী",
+      "বীর যোদ্ধা",
+      "দানশীল"
+    ],
+    "correctIndex": 0,
+    "explanation": "নবুয়ত প্রাপ্তির পূর্বেই আরবের কুরাইশরা মহানবী (সঃ)-এর সততা ও বিশ্বস্ততার কারণে তাঁকে 'আল-আমীন' উপাধি দিয়েছিল।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_277",
+    "subject": "ইসলাম ও নৈতিক শিক্ষা",
+    "chapter": "আখলাক",
+    "question": "অন্যের সুখ ও সমৃদ্ধি দেখে তা ধ্বংস হওয়ার কামনা করাকে কী বলে?",
+    "options": [
+      "হাসাদ (হিংসা)",
+      "কিবর (অহংকার)",
+      "গিবত (পরনিন্দা)",
+      "রিয়া (লোক দেখানো)"
+    ],
+    "correctIndex": 0,
+    "explanation": "হিংসা নেক আমলকে এমনভাবে ধ্বংস করে যেমন আগুন শুকনো কাঠকে জ্বালিয়ে ছাই করে দেয়।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_278",
+    "subject": "ইসলাম ও নৈতিক শিক্ষা",
+    "chapter": "আখলাক",
+    "question": "কারো অনুপস্থিতিতে তার এমন দোষের কথা আলোচনা করা যা সে অপছন্দ করে, তাকে কী বলে?",
+    "options": [
+      "গীবত",
+      "মিথ্যাচার",
+      "অপবাদ",
+      "চোগলখুরি"
+    ],
+    "correctIndex": 0,
+    "explanation": "পবিত্র কুরআনে গীবত করাকে নিজের মৃত ভাইয়ের গোশত খাওয়ার সাথে তুলনা করে কঠোরভাবে হারাম ঘোষণা করা হয়েছে।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_279",
+    "subject": "ইসলাম ও নৈতিক শিক্ষা",
+    "chapter": "আদর্শ জীবনচরিত",
+    "question": "হিলফুল ফুজুল (শান্তি সংঘ) কেন গঠিত হয়েছিল?",
+    "options": [
+      "অসহায় ও মজলুমদের সহায়তা এবং শান্তি প্রতিষ্ঠায়",
+      "যুদ্ধ পরিচালনা করতে",
+      "বাণিজ্য করতে",
+      "তীর্থযাত্রীদের কর আদায়ে"
+    ],
+    "correctIndex": 0,
+    "explanation": "ফিজার যুদ্ধের পর তরুণ বয়সে মহানবী (সঃ) শান্তিকামী যুবকদের নিয়ে নির্যাতিতদের রক্ষার্থে এ সমিতি গঠন করেন।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_280",
+    "subject": "ইসলাম ও নৈতিক শিক্ষা",
+    "chapter": "আদর্শ জীবনচরিত",
+    "question": "ইসলামের প্রথম খলিফা কে ছিলেন?",
+    "options": [
+      "হযরত আবু বকর সিদ্দিক (রাঃ)",
+      "হযরত ওমর ফারুক (রাঃ)",
+      "হযরত উসমান গণি (রাঃ)",
+      "হযরত আলী (রাঃ)"
+    ],
+    "correctIndex": 0,
+    "explanation": "মহানবী (সঃ)-এর ওফাতের পর সাহাবীদের সর্বসম্মত রায়ে হযরত আবু বকর (রাঃ) খলিফা নির্বাচিত হন।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_281",
+    "subject": "ইসলাম ও নৈতিক শিক্ষা",
+    "chapter": "আদর্শ জীবনচরিত",
+    "question": "কোন খলিফার উপাধি ছিল 'ফারুক' (সত্য ও মিথ্যার পার্থক্যকারী)?",
+    "options": [
+      "হযরত ওমর (রাঃ)",
+      "হযরত আবু বকর (রাঃ)",
+      "হযরত উসমান (রাঃ)",
+      "হযরত আলী (রাঃ)"
+    ],
+    "correctIndex": 0,
+    "explanation": "ইসলাম গ্রহণের পর নির্ভীক চিত্তে প্রকাশ্যে কাবার চত্বরে সালাত আদায় করায় নবীজী (সঃ) ওমর (রাঃ)-কে 'ফারুক' উপাধি দেন।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_282",
+    "subject": "ইসলাম ও নৈতিক শিক্ষা",
+    "chapter": "আদর্শ জীবনচরিত",
+    "question": "পবিত্র কুরআনকে একটি নির্দিষ্ট কিতাবে গ্রন্থিত করায় কোন খলিফাকে 'জামেউল কুরআন' বলা হয়?",
+    "options": [
+      "হযরত উসমান (রাঃ)",
+      "হযরত আবু বকর (রাঃ)",
+      "হযরত আলী (রাঃ)",
+      "হযরত ওমর (রাঃ)"
+    ],
+    "correctIndex": 0,
+    "explanation": "সমগ্র মুসলিম জাহানে শুদ্ধ তিলাওয়াত নিশ্চিত করতে কুরআন একত্রিত ও অনুলিপি বিতরণ করায় উসমান (রাঃ)-কে জামেউল কুরআন বলা হয়।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_283",
+    "subject": "ইসলাম ও নৈতিক শিক্ষা",
+    "chapter": "আদর্শ জীবনচরিত",
+    "question": "জ্ঞানের দরজা (বাবু মা'রিফাত) নামে কোন খলিফা খ্যাত ছিলেন?",
+    "options": [
+      "হযরত আলী (রাঃ)",
+      "হযরত ওমর (রাঃ)",
+      "হযরত আবু বকর (রাঃ)",
+      "হযরত উসমান (রাঃ)"
+    ],
+    "correctIndex": 0,
+    "explanation": "অসাধারণ প্রজ্ঞা ও ধর্মীয় জ্ঞানের গভীরতার কারণে মহানবী (সঃ) বলেন, 'আমি জ্ঞানের শহর আর আলী তার দরজা'।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_284",
+    "subject": "ইসলাম ও নৈতিক শিক্ষা",
+    "chapter": "বিজ্ঞান ও ইসলাম",
+    "question": "চিকিৎসা বিজ্ঞানের জনক হিসেবে খ্যাত মুসলিম মনীষী কে?",
+    "options": [
+      "ইবনে সিনা (Avicenna)",
+      "আল-বেরুনী",
+      "আল-খোয়ারিজমি",
+      "জাবির ইবনে হাইয়ান"
+    ],
+    "correctIndex": 0,
+    "explanation": "ইবনে সিনা রচিত 'আল-কানুন ফিত তিব্ব' শত শত বছর ধরে ইউরোপীয় বিশ্ববিদ্যালয়সমূহে প্রধান চিকিৎসা গ্রন্থ হিসেবে পড়ানো হয়েছে।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_285",
+    "subject": "ইসলাম ও নৈতিক শিক্ষা",
+    "chapter": "বিজ্ঞান ও ইসলাম",
+    "question": "বীজগণিতের (Algebra) জনক কোন মুসলিম বিজ্ঞানী?",
+    "options": [
+      "আল-খোয়ারিজমি",
+      "ওমর খৈয়াম",
+      "আল-বাত্তানী",
+      "ইবনে হাইসাম"
+    ],
+    "correctIndex": 0,
+    "explanation": "মুসা আল-খোয়ারিজমির বিখ্যাত গ্রন্থ 'আল-কিতাব আল-মুখতাসার ফি হিসেব আল-জাবর ওয়াল-মুকাবিলা' থেকেই অ্যালজেব্রা নামের উৎপত্তি।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_286",
+    "subject": "ইসলাম ও নৈতিক শিক্ষা",
+    "chapter": "সমাজ সংস্কার",
+    "question": "মাদকাসক্তি ও জুয়া সম্পর্কে ইসলামের বিধান কী?",
+    "options": [
+      "সম্পূর্ণ হারাম ও গর্হিত অপরাধ",
+      "মাকরূহ",
+      "শর্তসাপেক্ষে বৈধ",
+      "মুস্তাহাব"
+    ],
+    "correctIndex": 0,
+    "explanation": "পবিত্র কুরআনের সূরা মায়েদায় মদ, জুয়া ও ভাগ্য নির্ণায়ক তীরকে শয়তানের অপবিত্র কাজ হিসেবে ঘোষণা করে সম্পূর্ণ নিষিদ্ধ করা হয়েছে।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_287",
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "chapter": "তথ্য প্রযুক্তি ও বাংলাদেশ",
+    "question": "ই-লার্নিং (e-Learning) এর পূর্ণরূপ কী?",
+    "options": [
+      "Electronic Learning",
+      "Easy Learning",
+      "Expert Learning",
+      "Early Learning"
+    ],
+    "correctIndex": 0,
+    "explanation": "ইন্টারনেট এবং ইলেকট্রনিক মিডিয়ার সাহায্যে ঘরে বসে পাঠদান ও জ্ঞানার্জনের পদ্ধতিকে ই-লার্নিং বলা হয়।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_288",
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "chapter": "তথ্য প্রযুক্তি ও বাংলাদেশ",
+    "question": "সরকারি বিভিন্ন নাগরিক সেবা ইন্টারনেটের মাধ্যমে জনগণের কাছে পৌঁছে দেওয়াকে কী বলে?",
+    "options": [
+      "ই-গভর্ন্যান্স (e-Governance)",
+      "ই-কমার্স",
+      "ই-ব্যাংকিং",
+      "ই-মার্কেটিং"
+    ],
+    "correctIndex": 0,
+    "explanation": "প্রশাসনিক স্বচ্ছতা ও নাগরিকদের দ্রুত সেবা নিশ্চিতে ডিজিটাল সরকারি কার্যক্রমকে ই-গভর্ন্যান্স বলে।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_289",
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "chapter": "তথ্য প্রযুক্তি ও বাংলাদেশ",
+    "question": "বাংলাদেশ প্রথম সাবমেরিন ক্যাবল SEA-ME-WE-4 এ কত সালে যুক্ত হয়?",
+    "options": [
+      "২০০৬ সালে",
+      "২০১২ সালে",
+      "১৯৯৮ সালে",
+      "২০১৬ সালে"
+    ],
+    "correctIndex": 0,
+    "explanation": "বাংলাদেশ ২০০৬ সালে প্রথম আন্তর্জাতিক সাবমেরিন ক্যাবল কনসোর্টিয়াম SEA-ME-WE-4 এর সাথে সংযুক্ত হয়।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_290",
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "chapter": "কম্পিউটার নিরাপত্তা",
+    "question": "কম্পিউটার ভাইরাস (VIRUS) শব্দের পূর্ণরূপ কী?",
+    "options": [
+      "Vital Information Resources Under Siege",
+      "Very Important Resource Unit System",
+      "Virtual Integrated Resource Under Secret",
+      "Variable Input Rate Unit Software"
+    ],
+    "correctIndex": 0,
+    "explanation": "১৯৮৩ সালে গবেষক ফ্রেড কোহেন এই নামকরণ করেন: Vital Information Resources Under Siege।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_291",
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "chapter": "কম্পিউটার নিরাপত্তা",
+    "question": "কম্পিউটার ও ডেটাকে অনাকাঙ্ক্ষিত ভাইরাস থেকে সুরক্ষা দিতে কোনটি ব্যবহার করা হয়?",
+    "options": [
+      "অ্যান্টিভাইরাস সফটওয়্যার",
+      "ফায়ারওয়াল বন্ধ করা",
+      "অপারেটিং সিস্টেম মুছা",
+      "হার্ডডিস্ক ফরম্যাট"
+    ],
+    "correctIndex": 0,
+    "explanation": "নর্টন, ক্যাসপারস্কি, অ্যাভাস্ট বা উইন্ডোজ ডিফেন্ডারের মতো অ্যান্টিভাইরাস সফটওয়্যার ম্যালওয়্যার শনাক্ত ও দূর করে।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_292",
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "chapter": "কম্পিউটার নিরাপত্তা",
+    "question": "একটি নিরাপদ ও শক্তিশালী পাসওয়ার্ডে কী কী থাকা উচিত?",
+    "options": [
+      "অক্ষর (ছোট ও বড়), সংখ্যা এবং বিশেষ চিহ্ন",
+      "কেবল নিজের জন্মতারিখ",
+      "কেবল মোবাইল নম্বর",
+      "ক্রমানুসারে ১২৩৪৫৬"
+    ],
+    "correctIndex": 0,
+    "explanation": "পাসওয়ার্ড শক্তিশালী করতে আপারকেস, লোয়ারকেস বর্ণ, সংখ্যা (0-9) এবং স্পেশাল ক্যারেক্টার (@, #, $) মিশ্রণ আবশ্যক।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_293",
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "chapter": "কম্পিউটার নিরাপত্তা",
+    "question": "অনুমতি ব্যতীত অন্যের কম্পিউটার নেটওয়ার্কে প্রবেশ করে তথ্য হাতিয়ে নেওয়াকে কী বলে?",
+    "options": [
+      "হ্যাকিং (Hacking)",
+      "ব্রাউজিং",
+      "চ্যাটিং",
+      "টোরেন্টিং"
+    ],
+    "correctIndex": 0,
+    "explanation": "সাইবার অপরাধীরা অবৈধভাবে কোনো কম্পিউটার সিস্টেমে ঢুকে ক্ষতিসাধন করলে তাকে হ্যাকিং বলা হয়।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_294",
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "chapter": "ইন্টারনেট ও যোগাযোগ",
+    "question": "ওয়েবসাইট ব্রাউজ করার জন্য কোনটি প্রয়োজন?",
+    "options": [
+      "ওয়েব ব্রাউজার (যেমন: Chrome, Firefox)",
+      "স্প্রেডশিট সফটওয়্যার",
+      "ভিডিও প্লেয়ার",
+      "ফটো এডিটর"
+    ],
+    "correctIndex": 0,
+    "explanation": "ইন্টারনেটের ওয়েবপেজ পরিদর্শন ও প্রদর্শন করার অ্যাপ্লিকেশন সফটওয়্যারকে ওয়েব ব্রাউজার বলে।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_295",
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "chapter": "ইন্টারনেট ও যোগাযোগ",
+    "question": "ই-মেইল (E-mail) ঠিকানায় ব্যবহূত '@' চিহ্নের পরের অংশকে কী বলা হয়?",
+    "options": [
+      "ডোমেন নেম (Domain Name)",
+      "ইউজার নেম",
+      "প্রটোকল",
+      "আইপি ঠিকানা"
+    ],
+    "correctIndex": 0,
+    "explanation": "যেমন student@gmail.com ঠিকানায় 'student' হলো ইউজার নেম এবং 'gmail.com' হলো হোস্ট ডোমেন নেম।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_296",
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "chapter": "ইন্টারনেট ও যোগাযোগ",
+    "question": "সোশ্যাল মিডিয়া বা সামাজিক যোগাযোগ মাধ্যমের জনপ্রিয় উদাহরণ কোনটি?",
+    "options": [
+      "Facebook ও Twitter",
+      "Adobe Photoshop",
+      "Microsoft Word",
+      "VLC Player"
+    ],
+    "correctIndex": 0,
+    "explanation": "ফেসবুক, টুইটার, লিঙ্কডইন ইত্যাদি অনলাইন সামাজিক যোগাযোগের প্ল্যাটফর্ম হিসেবে বিশ্বব্যাপী পরিচিত।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_297",
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "chapter": "আমার লেখালেখি",
+    "question": "এমএস ওয়ার্ডে (MS Word) নতুন ফাইল খোলার কীবোর্ড শর্টকাট কোনটি?",
+    "options": [
+      "Ctrl + N",
+      "Ctrl + O",
+      "Ctrl + S",
+      "Ctrl + P"
+    ],
+    "correctIndex": 0,
+    "explanation": "ওয়ার্ড প্রসেসরে নতুন ব্ল্যাঙ্ক ডকুমেন্ট তৈরি করতে কীবোর্ডের Ctrl এবং N কী একসাথে চাপতে হয়।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_298",
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "chapter": "আমার লেখালেখি",
+    "question": "ডকুমেন্টের কোনো লেখা সংরক্ষণ (Save) করতে কোন শর্টকাট ব্যবহৃত হয়?",
+    "options": [
+      "Ctrl + S",
+      "Ctrl + C",
+      "Ctrl + V",
+      "Ctrl + Z"
+    ],
+    "correctIndex": 0,
+    "explanation": "কাজ সংরক্ষণ বা সেভ করতে কীবোর্ড শর্টকাট Ctrl + S ব্যবহৃত হয়।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_299",
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "chapter": "আমার লেখালেখি",
+    "question": "বাংলা লেখার সবচেয়ে জনপ্রিয় ওপেন সোর্স ও ফনেটিক কিবোর্ড সফটওয়্যার কোনটি?",
+    "options": [
+      "অভ্র (Avro Keyboard)",
+      "বিজয় বায়ান্ন",
+      "প্রবর্তন",
+      "বর্ণ"
+    ],
+    "correctIndex": 0,
+    "explanation": "মেহেদী হাসান খানের নেতৃত্বে তরুণ চিকিৎসকদের তৈরি 'অভ্র' ফনেটিক পদ্ধতিতে বাংলা লেখাকে সবার কাছে সহজ করেছে।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_300",
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "chapter": "হিসাব নিকাশ ও স্প্রেডশিট",
+    "question": "স্প্রেডশিট বিশ্লেষণের সবচেয়ে জনপ্রিয় ও বহুল ব্যবহূত সফটওয়্যার কোনটি?",
+    "options": [
+      "Microsoft Excel",
+      "MS Word",
+      "MS PowerPoint",
+      "Notepad"
+    ],
+    "correctIndex": 0,
+    "explanation": "মাইক্রোসফট এক্সেল গাণিতিক হিসাব, বাজেট, পরিসংখ্যান ও চার্ট তৈরির স্প্রেডশিট প্রোগ্রাম।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_301",
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "chapter": "হিসাব নিকাশ ও স্প্রেডশিট",
+    "question": "এক্সেলে সারি (Row) এবং কলামের (Column) ছেদবিন্দুকে কী বলা হয়?",
+    "options": [
+      "সেল (Cell)",
+      "ওয়ার্কশীট",
+      "গ্রিড",
+      "ফর্মুলা বার"
+    ],
+    "correctIndex": 0,
+    "explanation": "রো এবং কলামের মিলনে গঠিত ক্ষুদ্র চারকোনা ঘরকে সেল বলা হয়, যেমন A1, B2 ইত্যাদি।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_302",
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "chapter": "হিসাব নিকাশ ও স্প্রেডশিট",
+    "question": "এক্সেলে যোগ করার জন্য কোন ফাংশনটি সবচেয়ে বেশি ব্যবহৃত হয়?",
+    "options": [
+      "=SUM()",
+      "=AVERAGE()",
+      "=COUNT()",
+      "=MAX()"
+    ],
+    "correctIndex": 0,
+    "explanation": "একটানা সেলের মান যোগ করতে =SUM(A1:A10) ফাংশনটি ব্যবহার করা হয়।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_303",
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "chapter": "মাল্টিমিডিয়া ও গ্রাফিক্স",
+    "question": "মাল্টিমিডিয়ার প্রধান তিনটি মাধ্যম কী কী?",
+    "options": [
+      "বর্ণ বা টেক্সট, চিত্র বা গ্রাফিক্স এবং শব্দ বা অডিও",
+      "মনিটর, মাউস ও কীবোর্ড",
+      "সিপিইউ, র‍্যাম ও হার্ডডিস্ক",
+      "কেবল ভিডিও ও গেম"
+    ],
+    "correctIndex": 0,
+    "explanation": "ইন্টারঅ্যাক্টিভ মাল্টিমিডিয়া গঠিত হয় টেক্সট, গ্রাফিক্স/ছবি এবং অডিও/সাউন্ডের সমন্বিত প্রয়োগের মাধ্যমে।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_304",
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "chapter": "মাল্টিমিডিয়া ও গ্রাফিক্স",
+    "question": "প্রেজেন্টেশন বা ডিজিটাল উপস্থাপনা তৈরির সফটওয়্যার কোনটি?",
+    "options": [
+      "Microsoft PowerPoint",
+      "Adobe Illustrator",
+      "AutoCAD",
+      "Excel"
+    ],
+    "correctIndex": 0,
+    "explanation": "স্লাইড শো এবং বিভিন্ন মিটিং-ক্লাসের প্রেজেন্টেশন তৈরিতে মাইক্রোসফট পাওয়ারপয়েন্ট বিশ্বব্যাপী ব্যবহৃত হয়।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_305",
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "chapter": "মাল্টিমিডিয়া ও গ্রাফিক্স",
+    "question": "পাওয়ারপয়েন্টে স্লাইড প্রদর্শনের (Slide Show) শর্টকাট কী কোনটি?",
+    "options": [
+      "F5",
+      "F1",
+      "F12",
+      "F7"
+    ],
+    "correctIndex": 0,
+    "explanation": "কীবোর্ডের F5 কী চাপলে প্রথম স্লাইড থেকে ফুল-স্ক্রিন স্লাইড শো শুরু হয়।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_306",
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "chapter": "মাল্টিমিডিয়া ও গ্রাফিক্স",
+    "question": "ছবি সম্পাদনা ও রিটাচিংয়ের জন্য বহুল ব্যবহৃত সফটওয়্যার কোনটি?",
+    "options": [
+      "Adobe Photoshop",
+      "MS Word",
+      "VLC Media",
+      "Chrome"
+    ],
+    "correctIndex": 0,
+    "explanation": "ডিজিটাল ফটোগ্রাফি এবং গ্রাফিক এডিটিংয়ে অ্যাডোবি ফটোশপ হলো আন্তর্জাতিকভাবে স্বীকৃত স্ট্যান্ডার্ড।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_307",
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "chapter": "ডাটাবেস পরিচিতি",
+    "question": "ডাটাবেসের তথ্য সাজানোর ভিত্তি বা ক্ষুদ্রতম উপাদান কলামকে কী বলে?",
+    "options": [
+      "ফিল্ড (Field)",
+      "রেকর্ড (Record)",
+      "টেবিল (Table)",
+      "কুয়েরি (Query)"
+    ],
+    "correctIndex": 0,
+    "explanation": "ডাটাবেসের একটি কলামের নির্দিষ্ট তথ্যকে ফিল্ড বলে (যেমন: Roll, Name), এবং একটি অনুভূমিক সারির সম্পূর্ণ তথ্যকে রেকর্ড বলে।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_308",
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "chapter": "ডাটাবেস পরিচিতি",
+    "question": "DBMS এর পূর্ণরূপ কী?",
+    "options": [
+      "Database Management System",
+      "Data Base Multi Server",
+      "Digital Binary Management Service",
+      "Data Board Monitoring System"
+    ],
+    "correctIndex": 0,
+    "explanation": "বিপুল পরিমাণ ডেটা সুসংগঠিতভাবে সংরক্ষণ, অনুসন্ধান ও পরিচালনার সফটওয়্যারকে DBMS বলে।",
+    "difficulty": "easy"
+  },
+  {
+    "id": "subsubsub_309",
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "chapter": "ডাটাবেস পরিচিতি",
+    "question": "কোনো টেবিলে প্রতিটি রেকর্ডকে একক ও অনন্যভাবে চিহ্নিত করতে কোন কী ব্যবহৃত হয়?",
+    "options": [
+      "প্রাইমারি কী (Primary Key)",
+      "ফরেন কী",
+      "কম্পোজিট কী",
+      "ক্যান্ডিডেট কী"
+    ],
+    "correctIndex": 0,
+    "explanation": "প্রাইমারি কীর মান কখনো শূন্য (Null) বা পুনরাবৃত্ত হতে পারে না, যেমন: ছাত্রের রোল বা জাতীয় পরিচয়পত্র নম্বর।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_310",
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "chapter": "ডিজিটাল বাংলাদেশ",
+    "question": "বঙ্গবন্ধু স্যাটেলাইট-১ কত তারিখে মহাকাশে উৎক্ষেপণ করা হয়?",
+    "options": [
+      "১২ই মে ২০১৮",
+      "১৬ই ডিসেম্বর ২০১৭",
+      "২৬শে মার্চ ২০১৯",
+      "১০ই জানুয়ারি ২০১৮"
+    ],
+    "correctIndex": 0,
+    "explanation": "যুক্তরাষ্ট্রের ফ্লোরিডার কেনেডি স্পেস সেন্টার থেকে স্পেসএক্সের ফ্যালকন-৯ রকেটের মাধ্যমে ১২ই মে ২০১৮ সালে এটি মহাকাশে যাত্রা করে।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_311",
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "chapter": "ডিজিটাল নিরাপত্তা",
+    "question": "ইন্টারনেটে অন্যের বুদ্ধিবৃত্তিক কাজ অনুমতি ছাড়া নিজের নামে চালিয়ে দেওয়াকে কী বলে?",
+    "options": [
+      "প্লেজিয়ারিজম (Plagiarism)",
+      "কপিরাইট অনুমোদন",
+      "সাইবার নিরাপত্তা",
+      "সার্ফিং"
+    ],
+    "correctIndex": 0,
+    "explanation": "অন্যের সাহিত্য, গবেষণা বা কোড চুরি করে কৃতিত্ব দাবি করাকে প্লেজিয়ারিজম বা চৌর্যবৃত্তি বলে।",
+    "difficulty": "medium"
+  },
+  {
+    "id": "subsubsub_312",
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "chapter": "ক্লাউড কম্পিউটিং",
+    "question": "ইন্টারনেটের মাধ্যমে দূরবর্তী সার্ভারে তথ্য সংরক্ষণ ও ব্যবহারের প্রযুক্তিকে কী বলে?",
+    "options": [
+      "ক্লাউড কম্পিউটিং (Cloud Computing)",
+      "ব্লুটুথ নেটওয়ার্কিং",
+      "লোকাল ড্রাইভ",
+      "মাদারবোর্ড বাস"
+    ],
+    "correctIndex": 0,
+    "explanation": "Google Drive, iCloud, AWS ইত্যাদির মতো অনলাইন স্টোরেজ ও কম্পিউটিং সেবাকে ক্লাউড কম্পিউটিং বলা হয়।",
+    "difficulty": "easy"
+  }
+]

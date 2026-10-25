@@ -1,0 +1,85 @@
+export interface MCQ {
+  id: string;
+  subject: string;
+  chapter: string;
+  question: string;
+  options: string[];
+  correctIndex: number;
+  explanation: string;
+  difficulty: 'easy' | 'medium' | 'hard';
+  isAiGenerated?: boolean;
+}
+
+export interface ExamSessionConfig {
+  subject: string;
+  chapter: string; // 'all' or specific chapter name
+  questionCount: number;
+  timeLimitSeconds: number;
+}
+
+export interface UserAnswerRecord {
+  questionId: string;
+  selectedOptionIndex: number | null; // null if skipped
+  isCorrect: boolean;
+  timeSpentSeconds: number;
+}
+
+export interface ExamResult {
+  id: string;
+  date: string;
+  subject: string;
+  chapter: string;
+  totalQuestions: number;
+  correctCount: number;
+  wrongCount: number;
+  skippedCount: number;
+  accuracy: number;
+  scoreXP: number;
+  timeTakenSeconds: number;
+  answers: {
+    question: MCQ;
+    selectedOptionIndex: number | null;
+    isCorrect: boolean;
+  }[];
+}
+
+export interface UserProfile {
+  name: string;
+  rollNo?: string;
+  school?: string;
+  avatar: string;
+  totalXP: number;
+  level: number;
+  totalExams: number;
+  totalCorrect: number;
+  totalAttempted: number;
+  accuracyHistory: number[];
+  attemptedIds: string[];
+  recentExams: ExamResult[];
+}
+
+export interface SubjectInfo {
+  id: string;
+  name: string;
+  nameEn: string;
+  icon: string;
+  category: 'Science' | 'Arts' | 'Commerce' | 'General';
+  color: string;
+  accentBg: string;
+  totalMCQs: number;
+  chapters: string[];
+}
+
+export interface LeaderboardEntry {
+  rank: number;
+  id: string;
+  name: string;
+  school: string;
+  district?: string;
+  avatar: string;
+  level: number;
+  totalXP: number;
+  totalExams: number;
+  accuracy: number;
+  isCurrentUser?: boolean;
+}

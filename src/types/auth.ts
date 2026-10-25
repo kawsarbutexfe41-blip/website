@@ -1,0 +1,27 @@
+export interface AuthUser {
+  id: string;
+  name: string;
+  email: string;
+  passwordHash: string;
+  studentClass: '9' | '10';
+  school?: string;
+  isVerified: boolean;
+  otpCode?: string;
+  otpExpiresAt?: number;
+  createdAt: string;
+  totalXP?: number;
+  level?: number;
+  totalExams?: number;
+  totalCorrect?: number;
+  totalAttempted?: number;
+  avatar?: string;
+  district?: string;
+}
+
+export interface AuthSession {
+  token: string;
+  userId: string;
+  email: string;
+  name: string;
+  expiresAt: number;
+}
